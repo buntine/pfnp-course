@@ -17,6 +17,9 @@ fn main() {
         return res.render(format!("views/{}.tpl", course), &data);
     });
 
+    server.utilize(middleware! { |request|
+        println!("logging request: {:?}", request.origin.uri);
+    });
     server.utilize(router);
     server.utilize(StaticFilesHandler::new("assets/"));
 
