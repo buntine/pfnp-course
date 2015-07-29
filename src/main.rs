@@ -10,10 +10,11 @@ fn main() {
 
     router.get("/course/:course", middleware! { |req, res|
         let mut data = HashMap::new();
+        let course = req.param("course").unwrap();
 
-        data.insert("course", req.param("course").unwrap());
+        data.insert("course", course);
 
-        return res.render("views/course.tpl", &data);
+        return res.render(format!("views/{}.tpl", course), &data);
     });
 
     server.utilize(router);

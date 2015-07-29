@@ -1,3 +1,3 @@
 {{> header }}
-<h1>{{course}}</h1>
+<h1>SWAG</h1>
 {{> footer }}
