@@ -2,9 +2,9 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>CHANGE ME</title>
+    <title>Programming Fundamental for Non-Programmers: Lesson {{course}}</title>
 
-    <meta name="description" content="CHANGE ME"/>
+    <meta name="description" content="Programming Fundamental for Non-Programmers: Lesson {{course}}" />
     <meta name="author" content="Andrew Buntine" />
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />

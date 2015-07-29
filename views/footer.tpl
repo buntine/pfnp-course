@@ -22,7 +22,7 @@
             callback: function() { hljs.initHighlightingOnLoad(); } }
         ]
       });
-});
-     </script>
-</body>
+    });
+    </script>
+  </body>
 </html>
