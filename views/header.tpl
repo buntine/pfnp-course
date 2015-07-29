@@ -10,9 +10,9 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
 
-    <link rel="stylesheet" href="/reveal.css">
-    <link rel="stylesheet" href="/moon.css" id="theme">
-    <link rel="stylesheet" href="/zenburn.css">
-    <link rel="stylesheet" href="/style.css">
+    <link rel="stylesheet" href="/css/reveal.css">
+    <link rel="stylesheet" href="/css/moon.css" id="theme">
+    <link rel="stylesheet" href="/css/zenburn.css">
+    <link rel="stylesheet" href="/css/style.css">
   </head>
   <body>

@@ -1,6 +1,6 @@
     <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
-    <script src="/head.min.js"></script>
-    <script src="/reveal.js"></script>
+    <script src="/js/head.min.js"></script>
+    <script src="/js/reveal.js"></script>
     <script>
     $(function(){
       Reveal.initialize({
@@ -10,13 +10,13 @@
         center: true,
         transition: 'slide', // none/fade/slide/convex/concave/zoom
         dependencies: [
-          { src: '/classList.js',
+          { src: '/js/classList.js',
             condition: function() { return !document.body.classList; } },
-          { src: '/marked.js',
+          { src: '/js/marked.js',
             condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
-          { src: '/markdown.js',
+          { src: '/js/markdown.js',
             condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
-          { src: '/highlight.js',
+          { src: '/js/highlight.js',
             async: true,
             condition: function() { return !!document.querySelector( 'pre code' ); },
             callback: function() { hljs.initHighlightingOnLoad(); } }
