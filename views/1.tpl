@@ -21,7 +21,7 @@
       </ul>
     </section>
     <section>
-      <h1>Why are we here?</h1>
+      <h1>What is the goal?</h1>
     </section>
     <section class="goal">
       <h1>Demystify the lingo</h1>
@@ -34,6 +34,40 @@
     <section class="goal">
       <h1>Turn ideas into code</h1>
       <img src="/images/hacker.png" alt="Translate ideas into code" />
+    </section>
+    <section>
+      <h1>Why are you here?</h1>
+    </section>
+    <section>
+      <h1>1. Introduction</h1>
+      <ul>
+        <li>Vocabulary</li>
+        <li>Development process</li>
+        <li>Basics of the Web</li>
+        <li>Coding introduction</li>
+      </ul>
+    </section>
+    <section>
+      <h1>2. Front end</h1>
+      <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>Javascript</li>
+      </ul>
+    </section>
+    <section>
+      <h1>3. Back end</h1>
+      <ul>
+        <li>Ruby</li>
+        <li>Rails</li>
+        <li>Make a web app</li>
+      </ul>
+    </section>
+    <section>
+      <h1>4. Become a God</h1>
+      <ul>
+        <li>Put it all together</li>
+      </ul>
     </section>
   </div>
 </div>
