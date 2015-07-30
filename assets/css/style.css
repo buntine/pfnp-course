@@ -1,5 +1,4 @@
-section.opening img {
-    border: 0;
-    box-shadow: none;
-    background: none;
+section.goal img {
+    height: 330px;
+    width: auto;
 }

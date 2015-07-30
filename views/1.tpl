@@ -20,6 +20,21 @@
         <li><a href="https://github.com/buntine/">github.com/buntine</a></li>
       </ul>
     </section>
+    <section>
+      <h1>Why are we here?</h1>
+    </section>
+    <section class="goal">
+      <h1>Demystify the lingo</h1>
+      <img src="/images/js-confused.gif" alt="Demystify the lingo" />
+    </section>
+    <section class="goal">
+      <h1>Create basic websites</h1>
+      <img src="/images/jc-typing.gif" alt="Create Basic Websites" />
+    </section>
+    <section class="goal">
+      <h1>Turn ideas into code</h1>
+      <img src="/images/hacker.png" alt="Translate ideas into code" />
+    </section>
   </div>
 </div>
 {{> footer }}
