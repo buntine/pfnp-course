@@ -10,7 +10,7 @@
       <h1>Andrew Buntine</h1>
     </section>
     <section>
-      <h1>Who the hell am I?</h1>
+      <h1>Who am I, anyway?</h1>
       <ul>
         <li>Technical Director at Hardhat</li>
         <li>15 years experience</li>
@@ -67,6 +67,17 @@
       <h1>4. Become a God</h1>
       <ul>
         <li>Put it all together</li>
+      </ul>
+    </section>
+    <section>
+      <h1>Goals for Today</h1>
+      <ul>
+        <li>What is programming?</li>
+        <li>What is Web Development?</li>
+        <li>How does Web Development work?</li>
+        <li>What is an API?</li>
+        <li>The basics of HTML, CSS and Javascript?</li>
+        <li>Mad hacking session</li>
       </ul>
     </section>
   </div>
