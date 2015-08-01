@@ -80,6 +80,21 @@
         <li>Mad hacking session</li>
       </ul>
     </section>
+    <section>
+      <h1>What is programming?</h1>
+    </section>
+    <section>
+      <h2>Programming</h2>
+      <p>The process of writing instructions that can be understood by a computer (programs).</p>
+    </section>
+    <section>
+      <h2>Programming Language</h2>
+      <p>An intermediary language which can be understood by both computers and by Human beings.</p>
+    </section>
+    <section>
+      <h1>History lesson with Professor Bunts</h1>
+      <h3>(Not actual Professor)</h3>
+    </section>
   </div>
 </div>
 {{> footer }}
