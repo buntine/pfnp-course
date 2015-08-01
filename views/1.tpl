@@ -153,6 +153,34 @@
     <section>
       <h1>Stages of Web development</h1>
     </section>
+    <section>
+      <ul>
+        <li>Strategy</li>
+        <li>Research</li>
+        <li>Design</li>
+        <li>Prototype</li>
+        <li>Development</li>
+        <li>Testing</li>
+        <li>Deployment</li>
+      </ul>
+    </section>
+    <section>
+      <h2>Waterfall</h2>
+      <p>TODO: PUT PIC HERE OF ONE AFTER THE OTHER</p>
+    </section>
+    <section>
+      <h2>Agile</h2>
+      <p>TODO: PUT PIC HERE OF ALL INTERMIXED</p>
+    </section>
+    <section>
+      <h2>Strategy</h2>
+      <ul>
+        <li>Ideation and brainstorming</li>
+        <li>Consider how a business can translate into the digital landscape</li>
+        <li>Identify opportunities and risks of "going digital"</li>
+        <li>Develop overall digital vision</li>
+      </ul>
+    </section>
   </div>
 </div>
 {{> footer }}
