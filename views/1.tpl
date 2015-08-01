@@ -104,6 +104,24 @@
       <p>Write more...</p>
     </section>
     <section>
+      <h1>What makes up a program?</h1>
+    </section>
+    <section>
+      <ul>
+        <li>Name things (Variables)</li>
+        <li>Test things (Formal logic)</li>
+        <li>Make decisions (Branching)</li>
+        <li>Change things (State mutation)</li>
+        <li>Repeat ourselves (Looping)</li>
+        <li>Group things (Data structures)</li>
+        <li>Follow the rules (Type systems)</li>
+        <li>Hide things (Abstraction)</li>
+        <li>Display things (Printing)</li>
+        <li>Break things (Bugs)</li>
+        <li>And much more!</li>
+      </ul>
+    </section>
+    <section>
       <h1>What is web development?</h1>
     </section>
     <section>
