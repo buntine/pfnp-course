@@ -151,9 +151,12 @@
       </ul>
     </section>
     <section>
-      <h1>Stages of Web development</h1>
+      <h1>The Birth of a Website</h1>
+      <h3>Presented by Sir David Attenborough</h3>
+      <img src="/images/david-attenborough.gif" alt="David Attenborough" />
     </section>
     <section>
+      <h2>Stages</h2>
       <ul>
         <li>Strategy</li>
         <li>Research</li>
@@ -179,6 +182,15 @@
         <li>Consider how a business can translate into the digital landscape</li>
         <li>Identify opportunities and risks of "going digital"</li>
         <li>Develop overall digital vision</li>
+      </ul>
+    </section>
+    <section>
+      <h2>Research</h2>
+      <ul>
+        <li>Kickoff meeting</li>
+        <li>Requirements gathering session</li>
+        <li>Roadmapping session(s)</li>
+        <li>User personas / interviews</li>
       </ul>
     </section>
   </div>
