@@ -106,6 +106,18 @@
     <section>
       <h1>What is web development?</h1>
     </section>
+    <section>
+      <h2>Web Development</h2>
+      <p>The technical process of creating web sites. It's a broad term that covers several separate jobs!</p>
+    </section>
+    <section>
+       <h2>Front-end Web Development</h2>
+       <p>The creation of (typically) HTML, CSS and Javascript in order to translate a design or wireframe into a Website.</p>
+    </section>
+    <section>
+       <h2>Back-end Web Development</h2>
+       <p>The creation of software that provides a Websites functionality. Technology varies greatly.</p>
+    </section>
   </div>
 </div>
 {{> footer }}
