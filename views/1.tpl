@@ -107,6 +107,8 @@
       <h1>What makes up a program?</h1>
     </section>
     <section>
+      <h2>Stuff we can do</h2>
+<!-- NEED SLIDE FOR EACH WITH EXAMPLE -->
       <ul>
         <li>Name things (Variables)</li>
         <li>Test things (Formal logic)</li>
@@ -147,6 +149,9 @@
         <li>Hey yo, YouTube! Give me index.html</li>
         <li>...</li>
       </ul>
+    </section>
+    <section>
+      <h1>Stages of Web development</h1>
     </section>
   </div>
 </div>
