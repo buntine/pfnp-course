@@ -239,6 +239,7 @@
       <h1>Key terms we will use</h1>
     </section>
     <section>
+      <h2>Let's have a quick look at</h2>
       <ul>
         <li>HTML</li>
         <li>CSS</li>
@@ -246,8 +247,28 @@
         <li>Version control (Git)</li>
         <li>Datastores</li>
         <li>Ruby / Rails</li>
-        <li>API</li>
+        <li>API (REST, JSON, WTF?)</li>
       </ul>
+    </section>
+    <section>
+      <h1>HTML</h1>
+    </section>
+    <section>
+      <h2>What is it?</h2>
+      <ul>
+        <li>Hypertext Markup Language</li>
+        <li>Defines Webpage structure</li>
+        <li>Parsed by the Web Browser and turned into visual elements</li>
+        <li>Not a "programming" language!</li>
+      </ul>
+    </section>
+    <section>
+      <h2>What does it look like?</h2>
+      <code>
+        <pre>
+          %lt;ext%gt;
+        </pre>
+      </code>
     </section>
   </div>
 </div>
