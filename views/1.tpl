@@ -74,10 +74,10 @@
       <ul>
         <li>What is programming?</li>
         <li>What is Web Development?</li>
-        <li>How does Web Development work?</li>
-        <li>What is an API?</li>
-        <li>The basics of HTML, CSS and Javascript?</li>
-        <li>Mad hacking session</li>
+        <li>How is a Website made?</li>
+        <li>Understand some key terminology</li>
+        <li>The basics of HTML and CSS</li>
+        <li>Mad HTML hacking session</li>
       </ul>
     </section>
     <section>
