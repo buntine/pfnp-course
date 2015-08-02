@@ -168,6 +168,7 @@
       </ul>
     </section>
     <section>
+<!-- TODO: Put pic od each discipline on slides -->
       <h2>Strategy</h2>
       <ul>
         <li>Ideation and brainstorming</li>
@@ -233,6 +234,20 @@
     <section>
       <h2>Agile</h2>
       <p>TODO: PUT PIC HERE OF ALL INTERMIXED</p>
+    </section>
+    <section>
+      <h1>Key terms we will use</h1>
+    </section>
+    <section>
+      <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>Javascript</li>
+        <li>Version control (Git)</li>
+        <li>Datastores</li>
+        <li>Ruby / Rails</li>
+        <li>API</li>
+      </ul>
     </section>
   </div>
 </div>
