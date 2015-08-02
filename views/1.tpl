@@ -161,19 +161,11 @@
         <li>Strategy</li>
         <li>Research</li>
         <li>Design</li>
-        <li>Prototype</li>
+        <li>Copywriting</li>
         <li>Development</li>
         <li>Testing</li>
         <li>Deployment</li>
       </ul>
-    </section>
-    <section>
-      <h2>Waterfall</h2>
-      <p>TODO: PUT PIC HERE OF ONE AFTER THE OTHER</p>
-    </section>
-    <section>
-      <h2>Agile</h2>
-      <p>TODO: PUT PIC HERE OF ALL INTERMIXED</p>
     </section>
     <section>
       <h2>Strategy</h2>
@@ -191,7 +183,48 @@
         <li>Requirements gathering session</li>
         <li>Roadmapping session(s)</li>
         <li>User personas / interviews</li>
+        <li>Visual and technical specifications</li>
       </ul>
+    </section>
+    <section>
+      <h2>Design</h2>
+      <ul>
+        <li>Wireframing</li>
+        <li>"Click" prototyping</li>
+        <li>Visual Design</li>
+        <li>9,000,000 rounds of amendments</li>
+      </ul>
+    </section>
+    <section>
+      <h2>Copywriting</h2>
+      <ul>
+        <li>Site content gathering/audit/writing</li>
+        <li>Set tone of voice</li>
+      </ul>
+    </section>
+    <section>
+      <h2>Development</h2>
+      <ul>
+        <li>Translate design into build</li>
+        <li>Construct database</li>
+        <li>Program functionality</li>
+      </ul>
+    </section>
+    <section>
+      <h2>Development</h2>
+      <ul>
+        <li>Translate design into build</li>
+        <li>Construct database</li>
+        <li>Program functionality</li>
+      </ul>
+    </section>
+    <section>
+      <h2>Waterfall</h2>
+      <p>TODO: PUT PIC HERE OF ONE AFTER THE OTHER</p>
+    </section>
+    <section>
+      <h2>Agile</h2>
+      <p>TODO: PUT PIC HERE OF ALL INTERMIXED</p>
     </section>
   </div>
 </div>
