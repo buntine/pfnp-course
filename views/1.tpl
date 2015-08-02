@@ -211,11 +211,19 @@
       </ul>
     </section>
     <section>
-      <h2>Development</h2>
+      <h2>Testing</h2>
       <ul>
-        <li>Translate design into build</li>
-        <li>Construct database</li>
-        <li>Program functionality</li>
+        <li>Bug fixing</li>
+        <li>User acceptance testing</li>
+        <li>Quality assurance</li>
+      </ul>
+    </section>
+    <section>
+      <h2>Deployment</h2>
+      <ul>
+        <li>Infrastructure setup</li>
+        <li>Domain / DNS setup</li>
+        <li>Code deployment</li>
       </ul>
     </section>
     <section>
