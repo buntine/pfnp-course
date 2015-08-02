@@ -388,6 +388,19 @@ end
         </li>
       </ul>
     </section>
+    <section>
+      <h1>API</h1>
+    </section>
+    <section>
+      <h2>What is it?</h2>
+      <ul>
+        <li>Application Programming Interface</li>
+        <li>A Web API is a way of communicating to other systems over the Internet</li>
+        <li>An API provides a set of operations that we can call upon</li>
+        <li>Many APIs use JSON, a lightweight data format, for accepting instructions and returning results</li>
+        <li>This is how we "integrate" with Facebook, Twitter, LinkedIn, etc, etc, etc</li>
+      </ul>
+    </section>
   </div>
 </div>
 {{> footer }}
