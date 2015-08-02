@@ -246,7 +246,6 @@
         <li>Javascript</li>
         <li>Ruby</li>
         <li>Version control (Git)</li>
-        <li>Datastores</li>
         <li>API (REST, JSON, WTF?)</li>
       </ul>
     </section>
@@ -368,6 +367,26 @@ cities.each do |c|
 end
         </code>
       </pre>
+    </section>
+    <section>
+      <h1>Version Control</h1>
+      <h2>(git)</h2>
+    </section>
+    <section>
+      <h2>What is it?</h2>
+      <ul>
+        <li>A system for managing changes in files over time</li>
+        <li>Provides a log of all changes, allowing us to rollback and forward safely</li>
+        <li>We can see who did what, when, where and why</li>
+        <li>Very important for collaborating effectively with others</li>
+        <li>Git is a popular option, but there are many</li>
+        <li>
+          Github.com allows you to publish and share git repositories. A social network centered around coding
+          <ul>
+            <li>Check me out: <a href="http://github.com/buntine">github.com/buntine</a></li>
+          </ul>
+        </li>
+      </ul>
     </section>
   </div>
 </div>
