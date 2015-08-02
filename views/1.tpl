@@ -312,6 +312,35 @@ ul li.special {
         </code>
       </pre>
     </section>
+    <section>
+      <h1>Javascript</h1>
+    </section>
+    <section>
+      <h2>What is it?</h2>
+      <ul>
+        <li>Provides Webpage behaviour</li>
+        <li>Interacts with the user</li>
+        <li>Manipulates Webpage elements</li>
+        <li>
+          It is a programming language
+          <ul>
+            <li>To be exact: A multi-paradigm, dynamic, mildly-strong/duck typed scripting language supporting prototype-based inheritance and first-class functions</li>
+          </ul>
+        </li>
+      </ul>
+    </section>
+    <section>
+      <h2>What does it look like?</h2>
+      <pre>
+        <code>
+var name = "Andrew",
+    age = 29;
+
+if (age >= 21) {
+  console.log("You are an adult " + name + ", behave like one!");
+}
+        </code>
+      </pre>
   </div>
 </div>
 {{> footer }}
