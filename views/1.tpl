@@ -244,9 +244,9 @@
         <li>HTML</li>
         <li>CSS</li>
         <li>Javascript</li>
+        <li>Ruby</li>
         <li>Version control (Git)</li>
         <li>Datastores</li>
-        <li>Ruby / Rails</li>
         <li>API (REST, JSON, WTF?)</li>
       </ul>
     </section>
@@ -327,6 +327,7 @@ ul li.special {
             <li>To be exact: A multi-paradigm, dynamic, mildly-strong/duck typed scripting language supporting prototype-based inheritance and first-class functions</li>
           </ul>
         </li>
+        <li>Executed on the users machine</li>
       </ul>
     </section>
     <section>
@@ -341,6 +342,33 @@ if (age >= 21) {
 }
         </code>
       </pre>
+    </section>
+    <section>
+      <h1>Ruby</h1>
+    </section>
+    <section>
+      <h2>What is it?</h2>
+      <ul>
+        <li>A general-purpose programming language</li>
+        <li>Created by Yukihiro Matsumoto (Matz) in Japan in 1994</li>
+        <li>One of many popular options for server-side programming</li>
+        <li>Allows for "dynamic" webpages that may be generated from external sources (databases, etc)</li>
+        <li>Executed on the web server</li>
+      </ul>
+    </section>
+    <section>
+      <h2>What does it look like?</h2>
+      <pre>
+        <code>
+cities = ["Melbourne", "Sydney",
+          "Los Angeles", "Ulan Bator"]
+
+cities.each do |c|
+  puts "Let's go to #{c}"
+end
+        </code>
+      </pre>
+    </section>
   </div>
 </div>
 {{> footer }}
