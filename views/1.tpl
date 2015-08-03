@@ -401,6 +401,22 @@ end
         <li>This is how we "integrate" with Facebook, Twitter, LinkedIn, etc, etc, etc</li>
       </ul>
     </section>
+    <section>
+      <h1>TIME FOR A LAB</h1>
+    </section>
+    <section>
+      <h1>Review</h1>
+      <h2>Questions?</h2>
+    </section>
+    <section>
+      <h1>What's next?</h1>
+    </section>
+    <section>
+      <h1>Front-End Web Development</h1>
+    </section>
+    <section>
+      <h1>Thank You!</h1>
+    </section>
   </div>
 </div>
 {{> footer }}
