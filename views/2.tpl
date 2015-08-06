@@ -85,6 +85,37 @@
       RECAP
     </section>
     <section>
+      <h1>Development Environment</h1>
+    </section>
+    <section>
+      <h2>Folder setup</h2>
+      <ul>
+        <li>Create a folder called "my_website"</li>
+        <li>Inside that, create "images" and "css" folders</li>
+        <li>Open "my_website" in Sublime (or your editor of choice)</li>
+      </ul>
+    </section>
+    <section>
+      <h2>Hello, World!</h2>
+      <ul>
+        <li>Create a new file</li>
+        <li>Type this:
+          <pre><code>
+<h1>Hello, World!</h1>
+            </code></pre>
+        </li>
+        <li>Save it as "index.html"</li>
+        <li>Open it in yuor Web Browser</li>
+      </ul>
+    </section>
+    <section>
+      <h1>History lesson with Professor Bunts</h1>
+      <h3>(Not actual Professor)</h3>
+    </section>
+    <section>
+      Hello world history
+    </section>
+    <section>
       <h1>What's next?</h1>
     </section>
     <section>
