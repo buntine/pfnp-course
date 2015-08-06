@@ -116,6 +116,39 @@
       Hello world history
     </section>
     <section>
+      <h1>HTML</h1>
+    </section>
+    <section>
+      <h2>What is it?</h2>
+    </section>
+    <section>
+      <h2>What does it look like?</h2>
+    </section>
+    <section>
+      <h1>WTF?</h1>
+    </section>
+    <section>
+      <h2>Doctypes</h2>
+    </section>
+    <section>
+      <h2>HTML element</h2>
+    </section>
+    <section>
+      <h2>HEAD element</h2>
+    </section>
+    <section>
+      <h2>BODY element</h2>
+    </section>
+    <section>
+      <h2>But wait, there's more!</h2>
+      <ul>
+        <li>Over 100 tags/elements in HTML5</li>
+      </ul>
+    </section>
+    <section>
+      <h2>Structure of an element</h2>
+    </section>
+    <section>
       <h1>What's next?</h1>
     </section>
     <section>
