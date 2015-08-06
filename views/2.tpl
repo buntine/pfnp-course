@@ -4,7 +4,7 @@
     <section class="opening">
       <img src="/images/ga.png" alt="GeneralAssemb.ly" />
       <h1>Programming Fundamentals</h1>
-      <h2>Lesson #1</h2>
+      <h2>Lesson #2</h2>
     </section>
     <section>
       <h3>Presented by</h3>
@@ -73,13 +73,16 @@
     <section>
       <h1>Goals for Today</h1>
       <ul>
-        <li>What is programming?</li>
-        <li>What is Web Development?</li>
-        <li>How is a Website made?</li>
-        <li>Understand some key terminology</li>
-        <li>The basics of HTML and CSS</li>
-        <li>Mad HTML hacking session</li>
+        <li>Recap of lesson #1</li>
+        <li>Setup uor development environment</li>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>Javascript</li>
+        <li>Overview of some tools</li>
       </ul>
+    </section>
+    <section>
+      RECAP
     </section>
     <section>
       <h1>What's next?</h1>
