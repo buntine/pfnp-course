@@ -214,6 +214,9 @@
       </pre></code>
     </section>
     <section>
+      <h1>TIME FOR A LAB</h1>
+    </section>
+    <section>
       <h1>What's next?</h1>
     </section>
     <section>
