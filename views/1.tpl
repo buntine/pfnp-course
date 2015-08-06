@@ -4,6 +4,7 @@
     <section class="opening">
       <img src="/images/ga.png" alt="GeneralAssemb.ly" />
       <h1>Programming Fundamentals</h1>
+      <h2>Lesson #1</h2>
     </section>
     <section>
       <h3>Presented by</h3>
