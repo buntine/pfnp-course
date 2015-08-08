@@ -353,6 +353,46 @@ p img {
       </pre></code>
     </section>
     <section>
+      <h2>ID selector</h2>
+      <pre><code>
+#footer {
+  text-decoration: underline;
+  color: green;
+}
+
+#footer img {
+  border: 1px solid green;
+}
+      </pre></code>
+      <pre><code>
+<div id="footer">
+  <p>This is green text with an underline</p>
+  <img src="/image.png" alt="This image has a border">
+</div>
+      </pre></code>
+    </section>
+    <section>
+      <h2>Pseudo selector</h2>
+      <pre><code>
+a:hover {
+  color: #cccbbb;
+}
+
+div#header a.home:hover {
+  color: blue;
+}
+      </pre></code>
+      <pre><code>
+<a href="/contact">This is #cccbbb on hover</a>
+<div id="header">
+  <a class="nav" href="/">This is blue on hover</a>
+</div>
+      </pre></code>
+    </section>
+    <section>
+      <h1>TIME FOR A LAB</h1>
+    </section>
+    <section>
       <h1>What's next?</h1>
     </section>
     <section>
