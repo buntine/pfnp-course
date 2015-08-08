@@ -217,6 +217,31 @@
       <h1>TIME FOR A LAB</h1>
     </section>
     <section>
+      <h1>CSS</h1>
+    </section>
+    <section>
+      <h2>What is it?</h2>
+      <ul>
+        <li>Cascading Style Sheets</li>
+        <li>Applies styling rules to webpages (colours, fonts, borders, etc)</li>
+        <li>Separates document content from document presentation
+          <ul>
+            <li>Allows us to abstract styling out of document, so large changes are easier</li>
+          </ul>
+        </li>
+        <li>CSS rules are weighted so as to "cascade" through a document</li>
+        <li>All browsers have default stylesheets that we can overwrite</li>
+      </ul>
+    </section>
+    <section>
+      <h2>What does it look like?</h2>
+      <pre><code>
+selector {
+  property: value;
+}
+      </pre></code>
+    </section>
+    <section>
       <h1>What's next?</h1>
     </section>
     <section>
