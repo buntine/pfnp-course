@@ -292,11 +292,24 @@ div {
     <section>
       <h2>Fonts</h2>
       <pre><code>
+a {
+  font: bold 15px "Sans-Serif";
+  font-weight: bold;
+  font-size: 15px;
+  font-face: Sans-Serif;
+  color: green;
+}
       </pre></code>
     </section>
     <section>
       <h2>Backgrounds</h2>
       <pre><code>
+div {
+  background: red url('/some/bg.png') no-repeat;
+  background-color: red;
+  background-image: url('/some/bg.png');
+  background-repeat: no-repeat;
+}
       </pre></code>
     </section>
     <section>
