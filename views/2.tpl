@@ -242,6 +242,66 @@ selector {
       </pre></code>
     </section>
     <section>
+      <h1>WTF?</h1>
+    </section>
+    <section>
+      <h2>Selectors</h2>
+    </section>
+    <section>
+      <h2>Properties</h2>
+    </section>
+    <section>
+      <h2>Values</h2>
+    </section>
+    <section>
+      <h1>CSS Property Examples</h1>
+    </section>
+    <section>
+      <h2>Positioning</h2>
+      <pre><code>
+img {
+  position: static; /* Default */
+  position: relative; /* Relative to static position */
+  position: absolute; /* Exact positioning */
+  position: fixed; /* Ignore scrolling */
+}
+      </pre></code>
+    </section>
+    <section>
+      <h2>Floating</h2>
+      <pre><code>
+img {
+  float: none; /* Default */
+  float: left; /* Float to the left of text */
+  float: right; /* Float of the right of text */
+}
+      </pre></code>
+    </section>
+    <section>
+      <h2>Colours</h2>
+      <pre><code>
+div {
+  color: #ff00ff;
+  color: rgb(255, 0, 100);
+  color: rgba(124, 35, 99.6);
+  color: green;
+}
+      </pre></code>
+    </section>
+    <section>
+      <h2>Fonts</h2>
+      <pre><code>
+      </pre></code>
+    </section>
+    <section>
+      <h2>Backgrounds</h2>
+      <pre><code>
+      </pre></code>
+    </section>
+    <section>
+      <h1>CSS Selector Examples</h1>
+    </section>
+    <section>
       <h1>What's next?</h1>
     </section>
     <section>
