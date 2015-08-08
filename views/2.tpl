@@ -282,6 +282,7 @@ img {
       <pre><code>
 div {
   color: #ff00ff;
+  color: #fff;
   color: rgb(255, 0, 100);
   color: rgba(124, 35, 99.6);
   color: green;
@@ -300,6 +301,56 @@ div {
     </section>
     <section>
       <h1>CSS Selector Examples</h1>
+    </section>
+    <section>
+      <h2>Universal selector</h2>
+      <pre><code>
+* {
+  text-align: center;
+}
+      </pre></code>
+    </section>
+    <section>
+      <h2>Element selector</h2>
+      <pre><code>
+p {
+  text-align: center;
+}
+
+h3 {
+  color: red;
+}
+      </pre></code>
+    </section>
+    <section>
+      <h2>Descendent selector</h2>
+      <pre><code>
+ul li img {
+  border: 2px solid red;
+}
+
+p img {
+  float: left;
+  border: 4px solid #ffffff;
+}
+      </pre></code>
+    </section>
+    <section>
+      <h2>Class selector</h2>
+      <pre><code>
+.intro {
+  color: red;
+}
+
+.serious {
+  font-style: italic;
+}
+      </pre></code>
+      <pre><code>
+<p class="intro">
+  This is <span class="serious">very serious</span>. Good bye!
+</p>
+      </pre></code>
     </section>
     <section>
       <h1>What's next?</h1>
