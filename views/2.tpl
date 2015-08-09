@@ -406,6 +406,29 @@ div#header a.home:hover {
       <h1>TIME FOR A LAB</h1>
     </section>
     <section>
+      <h1>Javascript</h1>
+    </section>
+    <section>
+      <h2>What is it?</h2>
+      <ul>
+        <li>General-purpose programming language</li>
+        <li>Developed by Brenden Eich at Netscape in 1995</li>
+        <li>Implemented in all major browsers, with slight differences</li>
+        <li>Used to control behaviour and interact with the user</li>
+        <li>Standardised under the name ECMAScript</li>
+      </ul>
+    </section>
+    <section>
+      <h2>What does it look like?</h2>
+      <pre><code>
+function hello(name) {
+  return "Hello, " + name;
+}
+
+console.log(hello("World"));
+      </pre></code>
+    </section>
+    <section>
       <h1>What's next?</h1>
     </section>
     <section>
