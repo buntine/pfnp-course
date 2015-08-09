@@ -78,6 +78,7 @@
         <li>HTML</li>
         <li>CSS</li>
         <li>Javascript</li>
+        <li>Image formats</li>
         <li>Overview of some tools</li>
       </ul>
     </section>
@@ -425,8 +426,40 @@ function hello(name) {
   return "Hello, " + name;
 }
 
-console.log(hello("World"));
+var hello_world = hello("World");
+
+console.log(hello_world);
       </pre></code>
+    </section>
+    <section>
+      <h2>What makes it a programming language?</h2>
+    </section>
+    <section>
+      <h2>Popular Libraries</h2>
+    </section>
+    <section>
+      <h2>Jquery</h2>
+    </section>
+    <section>
+      <h2>Plain Javascript</h2>
+    </section>
+    <section>
+      <h2>Javascript + Jquery</h2>
+    </section>
+    <section>
+      <h1>Image Format</h1>
+    </section>
+    <section>
+      <h2>PNG</h2>
+    </section>
+    <section>
+      <h2>JPG</h2>
+    </section>
+    <section>
+      <h2>GIF</h2>
+    </section>
+    <section>
+      <h2>SVG</h2>
     </section>
     <section>
       <h1>What's next?</h1>
