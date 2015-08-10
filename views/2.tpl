@@ -447,7 +447,7 @@ console.log(hello_world);
       <h2>Javascript + Jquery</h2>
     </section>
     <section>
-      <h1>Image Format</h1>
+      <h1>Image Formats</h1>
     </section>
     <section>
       <h2>PNG</h2>
@@ -462,10 +462,14 @@ console.log(hello_world);
       <h2>SVG</h2>
     </section>
     <section>
+      <h1>Review</h1>
+      <h2>Questions?</h2>
+    </section>
+    <section>
       <h1>What's next?</h1>
     </section>
     <section>
-      <h1>Front-End Web Development</h1>
+      <h1>Back-End Web Development</h1>
     </section>
     <section>
       <h1>Thank You!</h1>
