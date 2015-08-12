@@ -117,28 +117,83 @@
       <p>IBM, Apple and Microsoft dominate the emerging home computing industry</p>
     </section>
     <section>
-      <h2>1990</h2>
+      <h2>1991</h2>
       <p>Tim Berners-Lee and his team, of Switzerland, develop HTTP, HTML, a web server and a web browser. The WWW is born.</p>
     </section>
     <section>
-      <h1>What makes up a program?</h1>
+      <h1>So what makes up a program?</h1>
     </section>
     <section>
-      <h2>Stuff we can do</h2>
-<!-- NEED SLIDE FOR EACH WITH EXAMPLE -->
-      <ul>
-        <li>Name things (Variables)</li>
-        <li>Test things (Formal logic)</li>
-        <li>Make decisions (Branching)</li>
-        <li>Change things (State mutation)</li>
-        <li>Repeat ourselves (Looping)</li>
-        <li>Group things (Data structures)</li>
-        <li>Follow the rules (Type systems)</li>
-        <li>Hide things (Abstraction)</li>
-        <li>Display things (Printing)</li>
-        <li>Break things (Bugs)</li>
-        <li>And much more!</li>
-      </ul>
+      <h2>Name things (Variables)</h2>
+      <pre><code>
+name = "Andrew"
+      </code></pre>
+    </section>
+    <section>
+      <h2>Test things (Formal logic)</h2>
+      <pre><code>
+age = 29
+
+age < 50 and age > 18
+      </code></pre>
+    </section>
+    <section>
+      <h2>Make decisions (Branching)</h2>
+      <pre><code>
+if age !== 21 then
+  print "Cool"
+end
+      </code></pre>
+    </section>
+    <section>
+      <h2>Change things (State mutation)</h2>
+      <pre><code>
+age = 29
+age = age + 1
+      </code></pre>
+    </section>
+    <section>
+      <h2>Repeat ourselves (Looping)</h2>
+      <pre><code>
+while true
+  print "Endless loop!"
+end
+
+print "I never get executed..."
+      </code></pre>
+    </section>
+    <section>
+      <h2>Group things (Data structures)</h2>
+      <pre><code>
+        aaa
+      </code></pre>
+    </section>
+    <section>
+      <h2>Follow the rules (Type systems)</h2>
+      <pre><code>
+        aaa
+      </code></pre>
+    </section>
+    <section>
+      <h2>Hide things (Abstraction)</h2>
+      <pre><code>
+        aaa
+      </code></pre>
+    </section>
+    <section>
+      <h2>Display things (Printing)</h2>
+      <pre><code>
+        aaa
+      </code></pre>
+    </section>
+    <section>
+      <h2>Break things (Bugs)</h2>
+      <pre><code>
+        aaa
+      </code></pre>
+    </section>
+    <section>
+      <h2>And much more!</h2>
     </section>
     <section>
       <h1>What is web development?</h1>
@@ -287,8 +342,7 @@
     </section>
     <section>
       <h2>What does it look like?</h2>
-      <pre>
-        <code>
+      <pre><code>
 <h1>This is a heading</h1>
 <div>
   <img src="/some/image.jpg" alt="Alternate text" />
@@ -298,8 +352,7 @@
     <li class="special">Another list item</li>
   </ul>
 </div>
-        </code>
-      </pre>
+        </code></pre>
     </section>
     <section>
       <h1>CSS</h1>
@@ -315,8 +368,7 @@
     </section>
     <section>
       <h2>What does it look like?</h2>
-      <pre>
-        <code>
+      <pre><code>
 div {
   background-color: #ab34ed;
   font-family: Sans-Serif;
@@ -325,8 +377,7 @@ div {
 ul li.special {
   color: green;
 }
-        </code>
-      </pre>
+        </code></pre>
     </section>
     <section>
       <h1>Javascript</h1>
@@ -348,16 +399,14 @@ ul li.special {
     </section>
     <section>
       <h2>What does it look like?</h2>
-      <pre>
-        <code>
+      <pre><code>
 var name = "Andrew",
     age = 29;
 
 if (age >= 21) {
   console.log("You are an adult " + name + ", behave like one!");
 }
-        </code>
-      </pre>
+        </code></pre>
     </section>
     <section>
       <h1>Ruby</h1>
@@ -374,16 +423,14 @@ if (age >= 21) {
     </section>
     <section>
       <h2>What does it look like?</h2>
-      <pre>
-        <code>
+      <pre><code>
 cities = ["Melbourne", "Sydney",
           "Los Angeles", "Ulan Bator"]
 
 cities.each do |c|
   puts "Let's go to #{c}"
 end
-        </code>
-      </pre>
+        </code></pre>
     </section>
     <section>
       <h1>Version Control</h1>
