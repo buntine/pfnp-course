@@ -165,31 +165,49 @@ print "I never get executed..."
     <section>
       <h2>Group things (Data structures)</h2>
       <pre><code>
-        aaa
+friends = ["Erik", "Mel", "Sean"]
+
+print friends[0]
       </code></pre>
     </section>
     <section>
       <h2>Follow the rules (Type systems)</h2>
       <pre><code>
-        aaa
+# No! Behave yourself, hacker!
+
+name = "Andrew"
+name = name + 1
       </code></pre>
     </section>
     <section>
       <h2>Hide things (Abstraction)</h2>
       <pre><code>
-        aaa
+fn double_or_n(n) 
+  if n < 10 then
+    return n
+  else
+    return n * 2
+  end
+end
+
+print double_or_n(5)   # 5
+print double_or_n(15)  # 30
       </code></pre>
     </section>
     <section>
       <h2>Display things (Printing)</h2>
       <pre><code>
-        aaa
+print "Hello, world!"
       </code></pre>
     </section>
     <section>
       <h2>Break things (Bugs)</h2>
       <pre><code>
-        aaa
+n = 0
+
+if 10 / n > 1 then
+  print "WTF?"
+end
       </code></pre>
     </section>
     <section>
