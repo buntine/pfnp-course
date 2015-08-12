@@ -33,8 +33,8 @@
       <img src="/images/jc-typing.gif" alt="Create Basic Websites" />
     </section>
     <section class="goal">
-      <h1>Turn ideas into code</h1>
-      <img src="/images/hacker.png" alt="Translate ideas into code" />
+      <h1>Survey of technologies</h1>
+      <img src="/images/hacker.png" alt="Servey of technologies" />
     </section>
     <section>
       <h1>Why are you here?</h1>
@@ -98,11 +98,27 @@
     </section>
     <section>
       <h2>1937</h2>
-      <p>Turing</p>
+      <p>Alan Turing introduces the Turing Machine - a theoretical mathematical device that represents a computing machine.</p>
     </section>
     <section>
-      <h2>1950</h2>
-      <p>Write more...</p>
+      <h2>1950's</h2>
+      <p>Grace Hopper and co. create FLOW-MATIC and COBOL, the first programming languages to use English-like instructions.</p>
+    </section>
+    <section>
+      <h2>1971</h2>
+      <p>Intel introduces the first microprocessor, the Intel 4004. Computers shrink drastically.</p>
+    </section>
+    <section>
+      <h2>1982</h2>
+      <p>Existing Computer-to-Computer communication protocols are standardised. The Internet is born.</p>
+    </section>
+    <section>
+      <h2>1985</h2>
+      <p>IBM, Apple and Microsoft dominate the emerging home computing industry</p>
+    </section>
+    <section>
+      <h2>1990</h2>
+      <p>Tim Berners-Lee and his team, of Switzerland, develop HTTP, HTML, a web server and a web browser. The WWW is born.</p>
     </section>
     <section>
       <h1>What makes up a program?</h1>
