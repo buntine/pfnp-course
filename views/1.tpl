@@ -34,7 +34,7 @@
     </section>
     <section class="goal">
       <h1>Survey of technologies</h1>
-      <img src="/images/hacker.png" alt="Servey of technologies" />
+      <img src="/images/coding.gif" alt="Servey of technologies" />
     </section>
     <section>
       <h1>Why are you here?</h1>
@@ -218,15 +218,33 @@ end
     </section>
     <section>
       <h2>Web Development</h2>
-      <p>The technical process of creating web sites. It's a broad term that covers several separate jobs!</p>
+      <ul>
+        <li>The technical process of creating software that runs on the Web</li>
+        <li>It's a broad term that covers several separate jobs!</li>
+        <li>Typically, all of the non-design aspects of creating web applications</li>
+      </ul>
     </section>
     <section>
       <h2>Front-end Web Development</h2>
-      <p>The creation of (typically) HTML, CSS and Javascript in order to translate a design or wireframe into a Website.</p>
+      <ul>
+        <li>Translate designs into web pages</p>
+        <li>Work primarily in the Web Browser</p>
+        <li>Main tools are (typically) HTML, CSS and Javascript</p>
+      </ul>
+    </section>
+    <section>
+      <img src="/images/hipster.jpg" alt="Frontys" />
     </section>
     <section>
       <h2>Back-end Web Development</h2>
-      <p>The creation of software that provides a Websites functionality. Technology varies greatly.</p>
+      <ul>
+        <li>Create software that provides Website functionality</li>
+        <li>Work primarily on the server</li>
+        <li>Main tool vary greatly</li>
+      </ul>
+    </section>
+    <section>
+      <img src="/images/hacker.png" alt="Backys" />
     </section>
     <section>
       <h1>Demonstration with Doctor Bunts</h1>

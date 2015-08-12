@@ -33,8 +33,8 @@
       <img src="/images/jc-typing.gif" alt="Create Basic Websites" />
     </section>
     <section class="goal">
-      <h1>Turn ideas into code</h1>
-      <img src="/images/hacker.png" alt="Translate ideas into code" />
+      <h1>Survey of technologies</h1>
+      <img src="/images/coding.gif" alt="Servey of technologies" />
     </section>
     <section>
       <h1>Why are you here?</h1>
