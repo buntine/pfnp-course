@@ -335,6 +335,7 @@ end
     </section>
     <section>
       <h1>Key terms we will use</h1>
+      <img src="/images/george_nervous.gif" alt="Scared" />
     </section>
     <section>
       <h2>Let's have a quick look at</h2>
@@ -361,7 +362,7 @@ end
           <ul>
             <li>No control flow</li>
             <li>No internal state</li>
-            <li>No maths or logic</li>
+            <li>No arithmatic or logic</li>
           </ul>
         </li>
       </ul>
@@ -431,6 +432,8 @@ var name = "Andrew",
 
 if (age >= 21) {
   console.log("You are an adult " + name + ", behave like one!");
+} else {
+  console.log("Carry on...");
 }
         </code></pre>
     </section>
