@@ -500,8 +500,7 @@ end
         <li>This is how we "integrate" with Facebook, Twitter, LinkedIn, etc, etc, etc</li>
       </ul>
     </section>
-    <section>
-      <h1>TIME FOR A CODE DEMO</h1>
+    <section data-interactions="codeDemo">
     </section>
     <section>
       <h1>Review</h1>

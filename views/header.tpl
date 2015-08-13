@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>Programming Fundamental for Non-Programmers: Lesson {{course}}</title>
+    <title>Programming Fundamentals for Non-Programmers: Lesson {{course}}</title>
 
     <meta name="description" content="Programming Fundamental for Non-Programmers: Lesson {{course}}" />
     <meta name="author" content="Andrew Buntine" />

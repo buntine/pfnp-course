@@ -1,9 +1,32 @@
+    <div id="code_demo">
+      <div id="cd1">IT'S</div>
+      <div id="cd2">TIME</div>
+      <div id="cd3">FOR</div>
+      <div id="cd4">A</div>
+      <div id="cd5">NOT</div>
+      <div id="cd6">SO</div>
+      <div id="cd7">HARD</div>
+      <div id="cd8">CODE</div>
+      <div id="cd9">DEMO</div>
+      <div id="cd10">&#33;</div>
+      <div id="cd11">&#33;</div>
+      <div id="cd12">&#33;</div>
+      <div id="cd13">&#33;</div>
+      <div id="cd14">&#33;</div>
+    </div>
+
     <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
     <script src="/js/head.min.js"></script>
+    <script src="/js/codeDemo.interaction.js"></script>
     <script src="/js/reveal.js"></script>
     <script>
     $(function(){
-      var interactions = [];
+      var interactions = [],
+          constructors = {
+            "codeDemo": function(){ return new CodeDemo(); },
+            "opinion": function(){ return new Opinion(); },
+            "attenborough": function(){ return new Attenborough(); },
+          };
 
       Reveal.initialize({
         controls: true,
@@ -26,12 +49,23 @@
       });
 
       Reveal.addEventListener('slidechanged', function(e){
-        var $section = $(e.currentSlide);
+        var $section = $(e.currentSlide),
+            actions = String($section.data("interactions")).split(",");
 
-        // Call .down() on each thing in interactions.
-        // Remove all intactions.
-        // Add new interaction(s).
-        // Call .up() on each thing in interactions.
+        $.each(interactions, function(){ this.down(); });
+        interactions = [];
+
+        $.each(actions, function(){
+          var c = constructors[this],
+              o;
+
+          if (c) {
+            o = c();
+
+            interactions.push(o);
+            o.up();
+          }
+        });
       });
 
     });
