@@ -251,33 +251,23 @@ end
       <h3>(Not actual Doctor)</h3>
     </section>
     <section>
-      <h2>How does the Web work?</h2>
-      <ul>
-        <li>Yo, I'm a Web Browser!</li>
-        <li>Hey yo, YouTube! Give me index.html</li>
-        <li>...</li>
-      </ul>
+      <h1>How does the Web work?</h1>
+    </section>
+    <section>
+      <h2>Static request</h2>
+      <img src="/images/request_flow.png" alt="Simple request" />
+    </section>
+    <section>
+      <h2>Dynamic request</h2>
+      <img src="/images/request_flow_big.png" alt="Complex request" />
     </section>
     <section>
       <h1>The Birth of a Website</h1>
       <h3>Presented by Sir David Attenborough</h3>
       <img src="/images/david-attenborough.gif" alt="David Attenborough" />
     </section>
-    <section>
-      <h2>Stages</h2>
-      <ul>
-        <li>Strategy</li>
-        <li>Research</li>
-        <li>Design</li>
-        <li>Copywriting</li>
-        <li>Development</li>
-        <li>Testing</li>
-        <li>Deployment</li>
-      </ul>
-    </section>
-    <section>
-<!-- TODO: Put pic od each discipline on slides -->
-      <h2>Strategy</h2>
+    <section class="attenborough">
+      <h2>1. Strategy</h2>
       <ul>
         <li>Ideation and brainstorming</li>
         <li>Consider how a business can translate into the digital landscape</li>
@@ -285,8 +275,8 @@ end
         <li>Develop overall digital vision</li>
       </ul>
     </section>
-    <section>
-      <h2>Research</h2>
+    <section class="attenborough">
+      <h2>2. Research</h2>
       <ul>
         <li>Kickoff meeting</li>
         <li>Requirements gathering session</li>
@@ -295,8 +285,8 @@ end
         <li>Visual and technical specifications</li>
       </ul>
     </section>
-    <section>
-      <h2>Design</h2>
+    <section class="attenborough">
+      <h2>3. Design</h2>
       <ul>
         <li>Wireframing</li>
         <li>"Click" prototyping</li>
@@ -304,31 +294,31 @@ end
         <li>9,000,000 rounds of amendments</li>
       </ul>
     </section>
-    <section>
-      <h2>Copywriting</h2>
+    <section class="attenborough">
+      <h2>4. Copywriting</h2>
       <ul>
         <li>Site content gathering/audit/writing</li>
         <li>Set tone of voice</li>
       </ul>
     </section>
-    <section>
-      <h2>Development</h2>
+    <section class="attenborough">
+      <h2>5. Development</h2>
       <ul>
         <li>Translate design into build</li>
         <li>Construct database</li>
         <li>Program functionality</li>
       </ul>
     </section>
-    <section>
-      <h2>Testing</h2>
+    <section class="attenborough">
+      <h2>6. Testing</h2>
       <ul>
         <li>Bug fixing</li>
         <li>User acceptance testing</li>
         <li>Quality assurance</li>
       </ul>
     </section>
-    <section>
-      <h2>Deployment</h2>
+    <section class="attenborough">
+      <h2>7. Deployment</h2>
       <ul>
         <li>Infrastructure setup</li>
         <li>Domain / DNS setup</li>
