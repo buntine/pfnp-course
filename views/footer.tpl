@@ -1,3 +1,5 @@
+    <div id="opinion_zone">The Opinion Zone</div>
+
     <div id="code_demo">
       <div id="cd1">IT'S</div>
       <div id="cd2">TIME</div>
@@ -18,6 +20,7 @@
     <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
     <script src="/js/head.min.js"></script>
     <script src="/js/codeDemo.interaction.js"></script>
+    <script src="/js/opinion.interaction.js"></script>
     <script src="/js/reveal.js"></script>
     <script>
     $(function(){

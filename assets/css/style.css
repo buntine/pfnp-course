@@ -1,3 +1,8 @@
+@font-face {
+  font-family: twylight;
+  src: url(/fonts/twylight.ttf);
+}
+
 section.goal img {
     height: 330px;
     width: auto;
@@ -11,6 +16,19 @@ section.history img {
     width: 48%;
     height: auto;
     float: right;
+}
+
+#opinion_zone {
+  font-family: twylight;
+  font-size: 170px;
+  display: none;
+  color: #fff;
+  z-index: 100;
+  position: absolute;
+  height: 170px;
+  width: 1400px;
+  top: calc(50% - 170px/2);
+  left: calc(50% - 1400px/2);
 }
 
 #code_demo {
