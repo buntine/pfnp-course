@@ -253,10 +253,6 @@ end
       <img src="/images/hacker.png" alt="Backys" />
     </section>
     <section>
-      <h1>Demonstration with Doctor Bunts</h1>
-      <h3>(Not actual Doctor)</h3>
-    </section>
-    <section>
       <h1>How does the Web work?</h1>
     </section>
     <section>
