@@ -268,7 +268,7 @@ end
       <h3>Presented by Sir David Attenborough</h3>
       <img src="/images/david-attenborough.gif" alt="David Attenborough" />
     </section>
-    <section class="attenborough">
+    <section data-interactions="attenborough">
       <h2>1. Strategy</h2>
       <ul>
         <li>Ideation and brainstorming</li>
@@ -277,7 +277,7 @@ end
         <li>Develop overall digital vision</li>
       </ul>
     </section>
-    <section class="attenborough">
+    <section data-interactions="attenborough">
       <h2>2. Research</h2>
       <ul>
         <li>Kickoff meeting</li>
@@ -287,7 +287,7 @@ end
         <li>Visual and technical specifications</li>
       </ul>
     </section>
-    <section class="attenborough">
+    <section data-interactions="attenborough">
       <h2>3. Design</h2>
       <ul>
         <li>Wireframing</li>
@@ -296,14 +296,14 @@ end
         <li>9,000,000 rounds of amendments</li>
       </ul>
     </section>
-    <section class="attenborough">
+    <section data-interactions="attenborough">
       <h2>4. Copywriting</h2>
       <ul>
         <li>Site content gathering/audit/writing</li>
         <li>Set tone of voice</li>
       </ul>
     </section>
-    <section class="attenborough">
+    <section data-interactions="attenborough">
       <h2>5. Development</h2>
       <ul>
         <li>Translate design into build</li>
@@ -311,7 +311,7 @@ end
         <li>Program functionality</li>
       </ul>
     </section>
-    <section class="attenborough">
+    <section data-interactions="attenborough">
       <h2>6. Testing</h2>
       <ul>
         <li>Bug fixing</li>
@@ -319,7 +319,7 @@ end
         <li>Quality assurance</li>
       </ul>
     </section>
-    <section class="attenborough">
+    <section data-interactions="attenborough">
       <h2>7. Deployment</h2>
       <ul>
         <li>Infrastructure setup</li>
