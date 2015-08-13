@@ -3,6 +3,8 @@
     <script src="/js/reveal.js"></script>
     <script>
     $(function(){
+      var interactions = [];
+
       Reveal.initialize({
         controls: true,
         progress: true,
@@ -22,6 +24,16 @@
             callback: function() { hljs.initHighlightingOnLoad(); } }
         ]
       });
+
+      Reveal.addEventListener('slidechanged', function(e){
+        var $section = $(e.currentSlide);
+
+        // Call .down() on each thing in interactions.
+        // Remove all intactions.
+        // Add new interaction(s).
+        // Call .up() on each thing in interactions.
+      });
+
     });
     </script>
   </body>
