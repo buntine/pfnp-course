@@ -2,3 +2,13 @@ section.goal img {
     height: 330px;
     width: auto;
 }
+
+section.history p {
+    width: 50%;
+    float:left;
+}
+section.history img {
+    width: 48%;
+    height: auto;
+    float: right;
+}
