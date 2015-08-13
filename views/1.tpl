@@ -96,29 +96,35 @@
       <h1>History lesson with Professor Bunts</h1>
       <h3>(Not actual Professor)</h3>
     </section>
-    <section>
+    <section class="history">
       <h2>1937</h2>
       <p>Alan Turing introduces the Turing Machine - a theoretical mathematical device that represents a computing machine.</p>
+      <img src="/images/turing.jpg" alt="Alan turing">
     </section>
-    <section>
+    <section class="history">
       <h2>1950's</h2>
       <p>Grace Hopper and co. create FLOW-MATIC and COBOL, the first programming languages to use English-like instructions.</p>
+      <img src="/images/grace_hopper.jpg" alt="Grace Hopper">
     </section>
-    <section>
+    <section class="history">
       <h2>1971</h2>
       <p>Intel introduces the first microprocessor, the Intel 4004. Computers shrink drastically.</p>
+      <img src="/images/intel4004.jpg" alt="4004">
     </section>
-    <section>
+    <section class="history">
       <h2>1982</h2>
       <p>Existing Computer-to-Computer communication protocols are standardised. The Internet is born.</p>
+      <img src="/images/old_modem.jpg" alt="Modem">
     </section>
-    <section>
+    <section class="history">
       <h2>1985</h2>
       <p>IBM, Apple and Microsoft dominate the emerging home computing industry</p>
+      <img src="/images/apple_2.jpg" alt="Apple ii">
     </section>
-    <section>
+    <section class="history">
       <h2>1991</h2>
       <p>Tim Berners-Lee and his team, of Switzerland, develop HTTP, HTML, a web server and a web browser. The WWW is born.</p>
+      <img src="/images/bernerslee.jpg" alt="Tim Berners-Lee">
     </section>
     <section>
       <h1>So what makes up a program?</h1>
@@ -495,7 +501,7 @@ end
       </ul>
     </section>
     <section>
-      <h1>TIME FOR A LAB</h1>
+      <h1>TIME FOR A CODE DEMO</h1>
     </section>
     <section>
       <h1>Review</h1>
