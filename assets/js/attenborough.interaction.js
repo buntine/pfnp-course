@@ -4,8 +4,9 @@
       cvs,
       ctx,
       david = {
+        speed: 2,
         pic: new Image(),
-        delta: -2
+        delta: 0,
       },
       createCanvas = function(id){
         var $cvs = $("<canvas>", {id: id});
@@ -17,11 +18,9 @@
       positionPic = function(){
         if (david.y >= cvs.height) {
           david.x = Math.random() * ((cvs.width - david.pic.width - 10) - 10) + 10;
-          david.delta = -2;
-        }
-
-        if (david.y <= (cvs.height - (david.pic.height / 1.5))) {
-          david.delta = 2;
+          david.delta = -david.speed;
+        } else if (david.y <= (cvs.height - (david.pic.height / 1.4))) {
+          david.delta = david.speed;
         }
 
         david.y += david.delta;
