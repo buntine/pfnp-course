@@ -272,7 +272,6 @@ end
     <section>
       <h2>Beware the Full-Stack</h2>
       <ul>
-        <li>It's a myth and a buzzword</li>
         <li>You can't know everything, pick your niche!</li>
         <li><strong>Not good:</strong> "Jack of all trades, master of none"</li>
         <li><strong>Good:</strong> "Jack of some trades, master of one, delegated the rest"</li>

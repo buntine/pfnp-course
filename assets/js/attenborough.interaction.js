@@ -6,6 +6,7 @@
       david = {
         speed: 2,
         pic: new Image(),
+        cutoff: 1.4,
         delta: 0,
       },
       createCanvas = function(id){
@@ -15,11 +16,16 @@
 
         return $("body").find("#" + id)[0];
       },
+      randInRange = function(low, high) {
+        return Math.random() * (high - low) + low;
+      },
       positionPic = function(){
         if (david.y >= cvs.height) {
-          david.x = Math.random() * ((cvs.width - david.pic.width - 10) - 10) + 10;
+          david.x = randInRange(10, (cvs.width - david.pic.width - 10));
+          david.cutoff = randInRange(1.3, 2.7);
+          david.speed = randInRange(1, 5);
           david.delta = -david.speed;
-        } else if (david.y <= (cvs.height - (david.pic.height / 1.4))) {
+        } else if (david.y <= (cvs.height - (david.pic.height / david.cutoff))) {
           david.delta = david.speed;
         }
 
