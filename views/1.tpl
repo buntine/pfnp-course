@@ -86,7 +86,7 @@
     </section>
     <section>
       <h2>Programming</h2>
-      <p>The process of writing instructions that can be understood by a computer (programs).</p>
+      <p>The process of writing instructions that can be understood by a computer.</p>
     </section>
     <section>
       <h2>Programming Language</h2>
@@ -112,6 +112,11 @@
       <img src="/images/intel4004.jpg" alt="4004">
     </section>
     <section class="history">
+      <h2>1978</h2>
+      <p>The C Programming Language is invented, it will grow to dominate the world of software.</p>
+      <img src="/images/c_lang.jpg" alt="C">
+    </section>
+    <section class="history">
       <h2>1982</h2>
       <p>Existing Computer-to-Computer communication protocols are standardised. The Internet is born.</p>
       <img src="/images/old_modem.jpg" alt="Modem">
@@ -127,7 +132,7 @@
       <img src="/images/bernerslee.jpg" alt="Tim Berners-Lee">
     </section>
     <section>
-      <h1>So what makes up a program?</h1>
+      <h1>What can programming languages do?</h1>
     </section>
     <section>
       <h2>Name things (Variables)</h2>
@@ -207,6 +212,16 @@ print "Hello, world!"
       </code></pre>
     </section>
     <section>
+      <h2>Steal things (Libraries)</h2>
+      <pre><code>
+require "datetime"
+
+current_time = DateTime.now
+
+print current_time.hour
+      </code></pre>
+    </section>
+    <section>
       <h2>Break things (Bugs)</h2>
       <pre><code>
 n = 0
@@ -218,6 +233,11 @@ end
     </section>
     <section>
       <h2>And much more!</h2>
+    </section>
+    <section data-interactions="opinion">
+    </section>
+    <section>
+      <h2>aaaa</h2>
     </section>
     <section>
       <h1>What is web development?</h1>
