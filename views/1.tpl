@@ -308,24 +308,24 @@ end
         <li>Kickoff meeting</li>
         <li>Requirements gathering session</li>
         <li>Roadmapping session(s)</li>
-        <li>User personas / interviews</li>
         <li>Visual and technical specifications</li>
       </ul>
     </section>
     <section data-interactions="attenborough">
-      <h2>3. Design</h2>
+      <h2>3. Design / UX</h2>
       <ul>
         <li>Wireframing</li>
         <li>"Click" prototyping</li>
-        <li>Visual Design</li>
+        <li>Visual design</li>
         <li>9,000,000 rounds of amendments</li>
       </ul>
     </section>
     <section data-interactions="attenborough">
       <h2>4. Copywriting</h2>
       <ul>
-        <li>Site content gathering/audit/writing</li>
+        <li>Site content gathering/writing</li>
         <li>Set tone of voice</li>
+        <li>Audit existing copy</li>
       </ul>
     </section>
     <section data-interactions="attenborough">
@@ -333,7 +333,8 @@ end
       <ul>
         <li>Translate design into build</li>
         <li>Construct database</li>
-        <li>Program functionality</li>
+        <li>Create CMS</li>
+        <li>Program frontent functionality</li>
       </ul>
     </section>
     <section data-interactions="attenborough">
