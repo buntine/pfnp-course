@@ -234,11 +234,6 @@ end
     <section>
       <h2>And much more!</h2>
     </section>
-    <section data-interactions="opinion">
-    </section>
-    <section>
-      <h2>aaaa</h2>
-    </section>
     <section>
       <h1>What is web development?</h1>
     </section>
@@ -271,6 +266,17 @@ end
     </section>
     <section>
       <img src="/images/hacker.png" alt="Backys" />
+    </section>
+    <section data-interactions="opinion">
+    </section>
+    <section>
+      <h2>Beware the Full-Stack</h2>
+      <ul>
+        <li>It's a myth and a buzzword</li>
+        <li>You can't know everything, pick your niche!</li>
+        <li><strong>Not good:</strong> "Jack of all trades, master of none"</li>
+        <li><strong>Good:</strong> "Jack of some trades, master of one, delegated the rest"</li>
+      </ul>
     </section>
     <section>
       <h1>How does the Web work?</h1>
