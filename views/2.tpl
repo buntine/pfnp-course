@@ -181,12 +181,37 @@
     </section>
     <section>
       <h2>What is it?</h2>
+      <ul>
+        <li>Hypertext Markup Language</li>
+        <li>Defines Webpage structure</li>
+        <li>Parsed by the Web Browser and turned into visual elements</li>
+        <li>
+          Not a "programming" language:
+          <ul>
+            <li>No control flow</li>
+            <li>No internal state</li>
+            <li>No arithmatic or logic</li>
+          </ul>
+        </li>
+      </ul>
     </section>
     <section>
       <h2>What does it look like?</h2>
+      <pre><code>
+<h1>This is a heading</h1>
+<div>
+  <img src="/some/image.jpg" alt="Alternate text" />
+  
+  <ul>
+    <li>List item goes here</li>
+    <li class="special">Another list item</li>
+  </ul>
+</div>
+        </code></pre>
     </section>
     <section>
       <h1>WTF?</h1>
+      <img src="/images/wtf.gif" alt="WTF?" />
     </section>
     <section>
       <h2>Doctypes</h2>
