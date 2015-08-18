@@ -74,7 +74,7 @@
       <h1>Goals for Today</h1>
       <ul>
         <li>Recap of lesson #1</li>
-        <li>Setup uor development environment</li>
+        <li>Setup your development environment</li>
         <li>HTML</li>
         <li>CSS</li>
         <li>Javascript</li>
@@ -83,7 +83,65 @@
       </ul>
     </section>
     <section>
-      RECAP
+      <h1>Recap</h1>
+    </section>
+    <section data-interactions="recap">
+      <h1>What is programming?</h1>
+    </section>
+    <section data-interactions="recap">
+      <h2>Programming</h2>
+      <p>The process of writing instructions that can be understood by a computer.</p>
+    </section>
+    <section data-interactions="recap">
+      <h2>Programming Language</h2>
+      <p>An intermediary language which can be understood by both computers and by Human beings.</p>
+    </section>
+    <section data-interactions="recap">
+      <h1>What is web development?</h1>
+    </section>
+    <section data-interactions="recap">
+      <h2>Web Development</h2>
+      <ul>
+        <li>The technical process of creating software that runs on the Web</li>
+        <li>It's a broad term that covers several separate jobs!</li>
+        <li>Typically, all of the non-design aspects of creating web applications</li>
+      </ul>
+    </section>
+    <section data-interactions="recap">
+      <h2>Front-end Web Development</h2>
+      <ul>
+        <li>Translate designs into web pages</p>
+        <li>Work primarily in the Web Browser</p>
+        <li>Main tools are (typically) HTML, CSS and Javascript</p>
+      </ul>
+    </section>
+    <section data-interactions="recap">
+      <img src="/images/hipster.jpg" alt="Frontys" />
+    </section>
+    <section data-interactions="recap">
+      <h2>Back-end Web Development</h2>
+      <ul>
+        <li>Create software that provides Website functionality</li>
+        <li>Work primarily on the server</li>
+        <li>Main tool vary greatly</li>
+      </ul>
+    </section>
+    <section data-interactions="recap">
+      <img src="/images/hacker.png" alt="Backys" />
+    </section>
+    <section data-interactions="recap">
+      <h2>We had a quick look at</h2>
+      <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>Javascript</li>
+        <li>Ruby</li>
+        <li>Version control (Git)</li>
+        <li>APIs</li>
+      </ul>
+    </section>
+    <section>
+      <h1>Ok, moving on...</h1>
     </section>
     <section>
       <h1>Development Environment</h1>
