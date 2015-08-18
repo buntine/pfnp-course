@@ -164,15 +164,17 @@
             </code></pre>
         </li>
         <li>Save it as "index.html"</li>
-        <li>Open it in yuor Web Browser</li>
+        <li>Open it in your Web Browser</li>
       </ul>
     </section>
     <section>
       <h1>History lesson with Professor Bunts</h1>
       <h3>(Not actual Professor)</h3>
     </section>
-    <section>
-      Hello world history
+    <section class="history">
+      <h2>1978</h2>
+      <p>The first "Hello, World" program is published in the seminal textbook "The C Programming Language"</p>
+      <img src="/images/hello_world.jpg" alt="Hello World">
     </section>
     <section>
       <h1>HTML</h1>
