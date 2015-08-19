@@ -499,9 +499,9 @@ p img {
 }
       </pre></code>
       <pre><code>
-<p class="intro">
-  This is <span class="serious">very serious</span>. Good bye!
-</p>
+&lt;p class="intro"&gt;
+  This is &lt;span class="serious"&gt;very serious&lt;/span&gt;. Good bye!
+&lt;/p&gt;
       </pre></code>
     </section>
     <section>
@@ -517,10 +517,10 @@ p img {
 }
       </pre></code>
       <pre><code>
-<div id="footer">
-  <p>This is green text with an underline</p>
-  <img src="/image.png" alt="This image has a border">
-</div>
+&lt;div id="footer"&gt;
+  &lt;p&gt;This is green text with an underline&lt;/p&gt;
+  &lt;img src="/image.png" alt="This image has a border"&gt;
+&lt;/div&gt;
       </pre></code>
     </section>
     <section>
@@ -535,10 +535,10 @@ div#header a.home:hover {
 }
       </pre></code>
       <pre><code>
-<a href="/contact">This is #cccbbb on hover</a>
-<div id="header">
-  <a class="nav" href="/">This is blue on hover</a>
-</div>
+&lt;a href="/contact"&gt;This is #cccbbb on hover&lt;/a&gt;
+&lt;div id="header"&gt;
+  &lt;a class="nav" href="/"&gt;This is blue on hover&lt;/a&gt;
+&lt;/div&gt;
       </pre></code>
     </section>
     <section data-interactions="codeDemo">
