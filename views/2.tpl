@@ -226,15 +226,33 @@
     </section>
     <section>
       <h2>Doctypes</h2>
+      <ul>
+        <li>Tell the Web Browser what type of document it is receiving</li>
+        <li>HTML4 and XHTML have several, HTML5 only has one</li>
+        <li>It used to be optional, but now HTML5 requires it!</li>
+      </ul>
     </section>
     <section>
       <h2>HTML element</h2>
+      <ul>
+        <li>The &lt;html&gt; element is the root node of a doucment</li>
+        <li>Remember, an HTML document is represented as a tree. &lt;html&gt; is the trunk!</li>
+      </ul>
     </section>
     <section>
       <h2>HEAD element</h2>
+      <ul>
+        <li>Generally the first child element in a document.</li>
+        <li>&lt;head&gt; houses the page title, meta elements, scripts, stylesheets, etc.</li>
+        <li>It does not display to the user, so don't put images, headings, links in there.</li>
+      </ul>
     </section>
     <section>
       <h2>BODY element</h2>
+      <ul>
+        <li>&lt;body&gt; houses the "renderable" document content.</li>
+        <li><strong>Do</strong> put images, links and headings in here!</li>
+      </ul>
     </section>
     <section>
       <h2>But wait, there's more!</h2>
@@ -310,8 +328,7 @@
 </form>
       </pre></code>
     </section>
-    <section>
-      <h1>TIME FOR A LAB</h1>
+    <section data-interactions="codeDemo">
     </section>
     <section>
       <h1>CSS</h1>
@@ -333,8 +350,9 @@
     <section>
       <h2>What does it look like?</h2>
       <pre><code>
-selector {
+selector:pseudo, #another {
   property: value;
+  another: value;
 }
       </pre></code>
     </section>
@@ -499,8 +517,7 @@ div#header a.home:hover {
 </div>
       </pre></code>
     </section>
-    <section>
-      <h1>TIME FOR A LAB</h1>
+    <section data-interactions="codeDemo">
     </section>
     <section>
       <h1>Javascript</h1>
