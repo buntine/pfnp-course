@@ -365,18 +365,33 @@ selector:pseudo, #another {
     </section>
     <section>
       <h1>WTF?</h1>
+      <img src="/images/wtf.gif" alt="WTF?" />
     </section>
     <section>
       <h2>Selectors</h2>
+      <ul>
+        <li>A simple syntax to "target" one or more document elements.</li>
+        <li>We can by very specific or very general.</li>
+        <li>Multiple selectors can be separated by commas.</li>
+      </ul>
     </section>
     <section>
       <h2>Properties</h2>
+      <ul>
+        <li>Signify the name of a property we want to set.</li>
+        <li>Naming conventions are kind of bad.</li>
+        <li>Some browsers use differing names for the same property.</li>
+      </ul>
     </section>
     <section>
       <h2>Values</h2>
+      <ul>
+        <li>Signify values for a designated property.</li>
+        <li>The range of valid values is dictated by the property.</li>
+      </ul>
     </section>
     <section>
-      <h1>CSS Property Examples</h1>
+      <h1>Property / Value Examples</h1>
     </section>
     <section>
       <h2>Positioning</h2>
@@ -416,6 +431,7 @@ div {
       <pre><code>
 a {
   font: bold 15px "Sans-Serif";
+
   font-weight: bold;
   font-size: 15px;
   font-face: Sans-Serif;
@@ -428,6 +444,7 @@ a {
       <pre><code>
 div {
   background: red url('/some/bg.png') no-repeat;
+
   background-color: red;
   background-image: url('/some/bg.png');
   background-repeat: no-repeat;
@@ -435,7 +452,7 @@ div {
       </pre></code>
     </section>
     <section>
-      <h1>CSS Selector Examples</h1>
+      <h1>Selector Examples</h1>
     </section>
     <section>
       <h2>Universal selector</h2>
