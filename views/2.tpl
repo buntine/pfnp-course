@@ -276,63 +276,63 @@
     <section>
       <h2>Headings</h2>
       <pre><code>
-<h1>Biggest heading</h1>
-<h2>Bigger heading</h2>
-<h3>Big heading</h3>
-<h4>Small heading</h4>
-<h5>Smaller heading</h5>
-<h6>Smallest heading</h6>
+&lt;h1&gt;Biggest heading&lt;/h1&gt;
+&lt;h2&gt;Bigger heading&lt;/h2&gt;
+&lt;h3&gt;Big heading&lt;/h3&gt;
+&lt;h4&gt;Small heading&lt;/h4&gt;
+&lt;h5&gt;Smaller heading&lt;/h5&gt;
+&lt;h6&gt;Smallest heading&lt;/h6&gt;
       </code></pre>
     </section>
     <section>
       <h2>Paragraphs</h2>
       <pre><code>
-<p>This is a paragraph.</p>
-<p>And so it this!</p>
+&lt;p&gt;This is a paragraph.&lt;/p&gt;
+&lt;p&gt;And so it this!&lt;/p&gt;
       </code></pre>
     </section>
     <section>
       <h2>Links / Anchors</h2>
       <pre><code>
-<a href="http://www.google.com/">Go to Google.com</a>
-<a href="/cheese.html">My Cheese webpage</a>
+&lt;a href="http://www.google.com/"&gt;Go to Google.com&lt;/a&gt;
+&lt;a href="/cheese.html"&gt;My Cheese webpage&lt;/a&gt;
       </code></pre>
     </section>
     <section>
       <h2>Images</h2>
       <pre><code>
-<img src="/some/path/to/image.png" alt="Alternate text here">
+&lt;img src="/some/path/to/image.png" alt="Alternate text here"&gt;
       </code></pre>
     </section>
     <section>
       <h2>Unordered lists</h2>
       <pre><code>
-<ul>
-  <li>This is a dot point</li>
-  <li>So is this</li>
-  <li>
-    <p>I like cheese</p>
-    <img src="/my/cheese.png" alt="Blue cheese">
-  </li>
-  <li>Last but not least</li>
-</ul>
+&lt;ul&gt;
+  &lt;li&gt;This is a dot point&lt;/li&gt;
+  &lt;li&gt;So is this&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;I like cheese&lt;/p&gt;
+    &lt;img src="/my/cheese.png" alt="Blue cheese"&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Last but not least&lt;/li&gt;
+&lt;/ul&gt;
       </code></pre>
     </section>
     <section>
       <h2>Forms</h2>
       <pre><code>
-<form method="post" action="/some/page">
-  <ul>
-    <li>
-      <label for="name">Your name:</label>
-      <input type="text" id="name">
-    </li>
-    <li>
-      <label for="email">Your email:</label>
-      <input type="text" id="email">
-    </li>
-  </ul>
-</form>
+&lt;form method="post" action="/some/page"&gt;
+  &lt;ul&gt;
+    &lt;li&gt;
+      &lt;label for="name"&gt;Your name:&lt;/label&gt;
+      &lt;input type="text" id="name"&gt;
+    &lt;/li&gt;
+    &lt;li&gt;
+      &lt;label for="email"&gt;Your email:&lt;/label&gt;
+      &lt;input type="text" id="email"&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/form&gt;
       </pre></code>
     </section>
     <section data-interactions="codeDemo">
