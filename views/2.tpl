@@ -144,7 +144,8 @@
       <h1>Ok, moving on...</h1>
     </section>
     <section>
-      <h1>Development Environment</h1>
+      <h1>HACK TIME!</h1>
+      <img src="/images/setup.jpg" alt="Setup" />
     </section>
     <section>
       <h2>Folder setup</h2>
@@ -160,8 +161,13 @@
         <li>Create a new file</li>
         <li>Type this:
           <pre><code>
-<h1>Hello, World!</h1>
-            </code></pre>
+&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+  &lt;body&gt;
+    &lt;h1&gt;Hello, World!&lt;/h1&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+          </code></pre>
         </li>
         <li>Save it as "index.html"</li>
         <li>Open it in your Web Browser</li>
@@ -184,6 +190,7 @@
       <ul>
         <li>Hypertext Markup Language</li>
         <li>Defines Webpage structure</li>
+        <li>Represents a "tree" data structure</li>
         <li>Parsed by the Web Browser and turned into visual elements</li>
         <li>
           Not a "programming" language:
@@ -198,15 +205,19 @@
     <section>
       <h2>What does it look like?</h2>
       <pre><code>
-<h1>This is a heading</h1>
-<div>
-  <img src="/some/image.jpg" alt="Alternate text" />
-  
-  <ul>
-    <li>List item goes here</li>
-    <li class="special">Another list item</li>
-  </ul>
-</div>
+&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+  &lt;body&gt;
+    &lt;h1&gt;This is a heading&lt;/h1&gt;
+    &lt;div&gt;
+      &lt;img src="/some/image.jpg" alt="Alternate text" /&gt;
+      &lt;ul&gt;
+        &lt;li&gt;List item goes here&lt;/li&gt;
+        &lt;li class="special"&gt;Another list item&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
         </code></pre>
     </section>
     <section>
