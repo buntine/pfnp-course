@@ -235,14 +235,15 @@
     <section>
       <h2>HTML element</h2>
       <ul>
-        <li>The &lt;html&gt; element is the root node of a doucment</li>
-        <li>Remember, an HTML document is represented as a tree. &lt;html&gt; is the trunk!</li>
+        <li>The &lt;html&gt; element is the root node of a document.</li>
+        <li>Remember, an HTML document is represented as a tree.</li>
+        <li>&lt;html&gt; is the trunk!</li>
       </ul>
     </section>
     <section>
       <h2>HEAD element</h2>
       <ul>
-        <li>Generally the first child element in a document.</li>
+        <li>Generally the first child element of &lt;html&gt; in a document.</li>
         <li>&lt;head&gt; houses the page title, meta elements, scripts, stylesheets, etc.</li>
         <li>It does not display to the user, so don't put images, headings, links in there.</li>
       </ul>
@@ -250,6 +251,7 @@
     <section>
       <h2>BODY element</h2>
       <ul>
+        <li>Generally the second child element of &lt;html&gt; in a document.</li>
         <li>&lt;body&gt; houses the "renderable" document content.</li>
         <li><strong>Do</strong> put images, links and headings in here!</li>
       </ul>
@@ -257,14 +259,19 @@
     <section>
       <h2>But wait, there's more!</h2>
       <ul>
-        <li>Over 100 tags/elements in HTML5</li>
+        <li>Over 100 tags/elements in HTML5.</li>
+        <li>And most have rules about where they go!</li>
+        <li>You can usually get away with remembering a smaller subset.</li>
       </ul>
     </section>
     <section>
       <h2>Structure of an element</h2>
+      <pre><code>
+&lt;element attr1="value1" attr2="value"&gt; ... &lt;/element&gt;
+      </code></pre>
     </section>
     <section>
-      <h2>Examples elements in HTML5</h2>
+      <h1>SOME EXAMPLES!</h1>
     </section>
     <section>
       <h2>Headings</h2>
