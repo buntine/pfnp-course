@@ -559,23 +559,42 @@ div#header a.home:hover {
     <section>
       <h2>What does it look like?</h2>
       <pre><code>
+var hello_world;
+
 function hello(name) {
   return "Hello, " + name;
 }
 
-var hello_world = hello("World");
+hello_world = hello("World");
 
 console.log(hello_world);
       </pre></code>
     </section>
     <section>
       <h2>What makes it a programming language?</h2>
+      <ul>
+        <li>It's <strong>"Turing Complete"</strong>!</li>
+        <li>It provides constructs that we can use to create <strong>algorithms</strong></li>
+      </ul>
     </section>
     <section>
       <h2>Popular Libraries</h2>
+      <ul>
+        <li>JQuery (DOM wrapper, AJAX, etc)</li>
+        <li>Three.js (Graphics)</li>
+        <li>AngularJS (Frontend framework)</li>
+        <li>Ember.js (Frontend framework)</li>
+        <li>React.js (UI framework)</li>
+      </ul>
     </section>
     <section>
       <h2>Jquery</h2>
+      <ul>
+        <li>Simplifies Javascript programming significantly</li>
+        <li>Abstracts away much of the cross-device messiness</li>
+        <li>Animations become very simple (no triganometry requiired!)</li>
+        <li>AJAX requests become a lot simpler to fire and handle</li>
+      </ul>
     </section>
     <section>
       <h2>Plain Javascript</h2>
