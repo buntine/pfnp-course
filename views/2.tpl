@@ -558,12 +558,11 @@ div#header a.home:hover {
     </section>
     <section>
       <h2>What does it look like?</h2>
-      <pre><code>
-var hello_world;
-
-function hello(name) {
-  return "Hello, " + name;
-}
+      <pre><code class="javascript">
+var hello_world,
+    hello = hello(name) {
+      return "Hello, " + name;
+    }
 
 hello_world = hello("World");
 
@@ -592,15 +591,29 @@ console.log(hello_world);
       <ul>
         <li>Simplifies Javascript programming significantly</li>
         <li>Abstracts away much of the cross-device messiness</li>
-        <li>Animations become very simple (no triganometry requiired!)</li>
+        <li>Animations become very simple (no trigonometry requiired!)</li>
         <li>AJAX requests become a lot simpler to fire and handle</li>
       </ul>
     </section>
     <section>
       <h2>Plain Javascript</h2>
+      <pre><code>
+var heading = document.getElementById("header");
+
+heading.innerHTML = "Hello, world!";
+heading.style.backgroundColor = "#eee456";
+      </code></pre>
     </section>
     <section>
       <h2>Javascript + Jquery</h2>
+      <pre><code>
+$("#heading")
+  .html("Hello, world!")
+  .css("background-color", "#eee456");
+      </code></pre>
+    </section>
+    <section>
+      <img src="/images/no_idea.gif" alt="No idea">
     </section>
     <section>
       <h1>Image Formats</h1>
