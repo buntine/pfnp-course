@@ -617,6 +617,7 @@ $("#heading")
     </section>
     <section>
       <h1>Image Formats</h1>
+      <img src="/images/art_llama.jpg" alt="Hipster Llama">
     </section>
     <section>
       <h2>PNG</h2>
