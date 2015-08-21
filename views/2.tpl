@@ -615,6 +615,16 @@ $("#heading")
     <section>
       <img src="/images/no_idea.gif" alt="No idea">
     </section>
+    <section data-interactions="opinion">
+    </section>
+    <section>
+      <h2>Learn Javascript first!</h2>
+      <ul>
+        <li>JQuery does a lot of <strong>magic</strong> under the hood</li>
+        <li>Make sure you understand Javascript well before learning JQuery</li>
+        <li>Including Jquery requires the browser to interpret an extra ~20,000 lines of code</li>
+      </ul>
+    </section>
     <section>
       <h1>Image Formats</h1>
       <img src="/images/art_llama.jpg" alt="Hipster Llama">
