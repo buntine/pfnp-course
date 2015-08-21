@@ -663,7 +663,16 @@ $("#heading")
         <li>Scalable Vector Graphics format</li>
         <li>Supports transparency</li>
         <li>Best suited to flat colours and geometric shapes</li>
-        <li>Can be scaled to any size without loss of quality or increased file size</li>
+        <li>Can be scaled to any size without lost quality or increased file size</li>
+      </ul>
+    </section>
+    <section data-interactions="opinion">
+    </section>
+    <section>
+      <h2>PNG and SVG are usually enough!</h2>
+      <ul>
+        <li>PNG is great for photo-esque images</li>
+        <li>SVG is great for simpler shapes, logos, etc</li>
       </ul>
     </section>
     <section>
