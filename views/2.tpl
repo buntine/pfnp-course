@@ -631,15 +631,40 @@ $("#heading")
     </section>
     <section>
       <h2>PNG</h2>
+      <ul>
+        <li>Portable Network Graphics</li>
+        <li>Supports transparency</li>
+        <li>Lossless data compression, but high compression means more decoding</li>
+        <li>Great for photos and images with lots of colour variations</li>
+      </ul>
     </section>
     <section>
       <h2>JPG</h2>
+      <ul>
+        <li>Joint Photography Experts Group</li>
+        <li>No transparency</li>
+        <li>Lossy compression</li>
+        <li>Great for photos and images with lots of colour variations</li>
+      </ul>
     </section>
     <section>
       <h2>GIF</h2>
+      <ul>
+        <li>Graphics Interchange Format</li>
+        <li>Supports transparency (no semi-transparency)</li>
+        <li>Supports animation</li>
+        <li>Very limited colour palette (256)</li>
+        <li>Limited compression, so big filesize</li>
+      </ul>
     </section>
     <section>
       <h2>SVG</h2>
+      <ul>
+        <li>Scalable Vector Graphics format</li>
+        <li>Supports transparency</li>
+        <li>Best suited to flat colours and geometric shapes</li>
+        <li>Can be scaled to any size without loss of quality or increased file size</li>
+      </ul>
     </section>
     <section>
       <h1>Review</h1>
