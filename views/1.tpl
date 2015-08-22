@@ -355,11 +355,11 @@ end
     </section>
     <section>
       <h2>Waterfall</h2>
-      <p>TODO: PUT PIC HERE OF ONE AFTER THE OTHER</p>
+      <img src="/images/waterfall.png" alt="Waterfall">
     </section>
     <section>
       <h2>Agile</h2>
-      <p>TODO: PUT PIC HERE OF ALL INTERMIXED</p>
+      <img src="/images/agile.png" alt="Agile">
     </section>
     <section>
       <h1>Key terms we will use</h1>
