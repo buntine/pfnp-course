@@ -669,9 +669,9 @@ $("#heading")
     <section data-interactions="opinion">
     </section>
     <section>
-      <h2>PNG and SVG are usually enough!</h2>
+      <h2>JPG and SVG are usually enough!</h2>
       <ul>
-        <li>PNG is great for photo-esque images</li>
+        <li>JPG is great for photo-esque images</li>
         <li>SVG is great for simpler shapes, logos, etc</li>
       </ul>
     </section>
