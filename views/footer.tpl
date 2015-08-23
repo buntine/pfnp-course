@@ -22,6 +22,7 @@
     <script src="/js/codeDemo.interaction.js"></script>
     <script src="/js/opinion.interaction.js"></script>
     <script src="/js/attenborough.interaction.js"></script>
+    <script src="/js/timeTravel.interaction.js"></script>
     <script src="/js/reveal.js"></script>
     <script>
     $(function(){
@@ -30,6 +31,7 @@
             "codeDemo": function(){ return new CodeDemo(); },
             "opinion": function(){ return new Opinion(); },
             "attenborough": function(){ return new Attenborough(); },
+            "timeTravel": function(){ return new TimeTravel(); },
           };
 
       Reveal.initialize({
