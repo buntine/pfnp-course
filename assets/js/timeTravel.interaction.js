@@ -3,13 +3,14 @@
       timeTravel = function(){
         this.up = function(){
           $("body").prepend("<img src=\"/images/time_travel.gif\" class=\"history_gif\">");
-          $("h1").css("z-index", 110);
+          $(".history_heading").fadeIn(2000);
 
           song.play();
         };
 
         this.down = function(){
           $(".history_gif").remove();
+          $(".history_heading").hide();
 
           song.pause();
           song.currentTime = 0;

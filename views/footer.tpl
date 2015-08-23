@@ -1,4 +1,6 @@
     <div id="opinion_zone">The Opinion Zone</div>
+    <div class="history_heading" id="history_heading_a">History Lesson</div>
+    <div class="history_heading" id="history_heading_b">With Professor Bunts</div>
 
     <div id="code_demo">
       <div id="cd1">IT'S</div>

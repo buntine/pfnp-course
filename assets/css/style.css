@@ -146,6 +146,29 @@ section.history img {
 .history_gif {
   width: 100%;
   height: 100%;
+  z-index: 95;
+  position: absolute;
+}
+
+.history_heading {
+  font-family: 'League Gothic', Impact, sans-serif;
+  font-size: 80px;
+  padding: 10px 0;
+  display: none;
+  color: #eee8d5;
   z-index: 100;
   position: absolute;
+  background-color: #002b36;
+  height: auto;
+  width: 100%;
+  left: 0;
+  text-align: center;
+}
+
+#history_heading_a {
+  top: 0;
+}
+
+#history_heading_b {
+  bottom: 0;
 }

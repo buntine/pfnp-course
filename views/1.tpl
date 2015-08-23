@@ -93,8 +93,6 @@
       <p>An intermediary language which can be understood by both computers and by Human beings.</p>
     </section>
     <section data-interactions="timeTravel">
-      <h1>History lesson with Professor Bunts</h1>
-      <h3>(Not actual Professor)</h3>
     </section>
     <section class="history">
       <h2>1937</h2>
