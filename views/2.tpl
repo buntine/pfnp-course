@@ -173,9 +173,7 @@
         <li>Open it in your Web Browser</li>
       </ul>
     </section>
-    <section>
-      <h1>History lesson with Professor Bunts</h1>
-      <h3>(Not actual Professor)</h3>
+    <section data-interactions="timeTravel">
     </section>
     <section class="history">
       <h2>1978</h2>
