@@ -4,7 +4,7 @@
         this.up = function(){
           var g, s;
 
-          $("body").prepend("<div id='_giphy_tv'></div>");
+          $("body").prepend($("<div>", {id: "_giphy_tv"}));
           $("#opinion_zone").fadeIn(2000);
 
           _giphy_tv_tag="the-twilight-zone";

@@ -1,8 +1,9 @@
 (function(){
-  var song = new Audio("/sounds/great_scott.mp3"),
+  var song = new Audio("/sounds/time_travel.mp3"),
       timeTravel = function(){
         this.up = function(){
-          $("body").prepend("<img src=\"/images/time_travel.gif\" class=\"history_gif\">");
+          $("body").prepend(
+            $("<img>", {src: "/images/time_travel.gif", class: "history_gif"}));
           $(".history_heading").fadeIn(2000);
 
           song.play();
