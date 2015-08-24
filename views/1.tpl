@@ -332,7 +332,7 @@ end
         <li>Translate design into build</li>
         <li>Construct database</li>
         <li>Create CMS</li>
-        <li>Program frontent functionality</li>
+        <li>Program frontend functionality</li>
       </ul>
     </section>
     <section data-interactions="attenborough">
@@ -534,6 +534,7 @@ end
     </section>
     <section>
       <h1>Thank You!</h1>
+      <img src="/images/jcvd.gif" class="jcvd" alt="Thank You" />
     </section>
   </div>
 </div>

@@ -172,3 +172,8 @@ section.history img {
 #history_heading_b {
   bottom: 0;
 }
+
+.jcvd {
+  width: 550px;
+  height: auto;
+}

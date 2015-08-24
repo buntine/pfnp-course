@@ -76,7 +76,9 @@
         <li>Recap of lesson #1</li>
         <li>Setup your development environment</li>
         <li>HTML</li>
+        <li>Hacking</li>
         <li>CSS</li>
+        <li>More hacking</li>
         <li>Javascript</li>
         <li>Image formats</li>
         <li>Overview of some tools</li>
@@ -685,6 +687,7 @@ $("#heading")
     </section>
     <section>
       <h1>Thank You!</h1>
+      <img src="/images/jcvd.gif" class="jcvd" alt="Thank You" />
     </section>
   </div>
 </div>
