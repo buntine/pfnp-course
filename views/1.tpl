@@ -95,9 +95,34 @@
     <section data-interactions="timeTravel">
     </section>
     <section class="history">
+      <h2>1801</h2>
+      <p>Joseph Jacquard invents a mechanical Loom that uses "punched cards" to store the weave pattern. It's the first programmable machines.</p>
+      <img src="/images/jacquard.jpg" alt="Jacquard Loom">
+    </section>
+    <section class="history">
+      <h2>1837</h2>
+      <p>Charles Babbage publishes a paper describing a "computing machine" called The Analytical Engine.</p>
+      <img src="/images/babbage.jpg" alt="Charles Babbage">
+    </section>
+    <section class="history">
+      <h2>1842</h2>
+      <p>Ada Lovelace writes algorithms for the machine Babbage described, making her the first computer programmer.</p>
+      <img src="/images/lovelace.jpg" alt="Ada Lovelace">
+    </section>
+    <section class="history">
+      <h2>1890</h2>
+      <p>Herman Hollerith invents tabulating machines for the 1890 US Census using punched cards. He would go on to found IBM.</p>
+      <img src="/images/lovelace.jpg" alt="Ada Lovelace">
+    </section>
+    <section class="history">
       <h2>1937</h2>
       <p>Alan Turing introduces the Turing Machine - a theoretical mathematical device that represents a computing machine.</p>
       <img src="/images/turing.jpg" alt="Alan turing">
+    </section>
+    <section class="history">
+      <h2>1946</h2>
+      <p>ENIAC, the first fully-programmable digital computer, was completed in Philadelphia.</p>
+      <img src="/images/eniac.jpg" alt="ENIAC">
     </section>
     <section class="history">
       <h2>1950's</h2>
@@ -121,7 +146,7 @@
     </section>
     <section class="history">
       <h2>1985</h2>
-      <p>IBM, Apple and Microsoft dominate the emerging home computing industry</p>
+      <p>IBM, Apple and Microsoft dominate the emerging home computing industry.</p>
       <img src="/images/apple_2.jpg" alt="Apple ii">
     </section>
     <section class="history">
