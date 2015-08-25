@@ -96,12 +96,12 @@
     </section>
     <section class="history">
       <h2>1801</h2>
-      <p>Joseph Jacquard invents a mechanical Loom that uses "punched cards" to store the weave pattern. It's the first programmable machines.</p>
+      <p>Joseph Jacquard invents a mechanical Loom that uses "punched cards" to store the weave pattern. It's the first programmable machine.</p>
       <img src="/images/jacquard.jpg" alt="Jacquard Loom">
     </section>
     <section class="history">
       <h2>1837</h2>
-      <p>Charles Babbage publishes a paper describing a "computing machine" called The Analytical Engine.</p>
+      <p>Charles Babbage publishes a paper describing a "computing machine" called The Analytical Engine.<br><br>He was 100 years ahead of his time. And very grumpy...</p>
       <img src="/images/babbage.jpg" alt="Charles Babbage">
     </section>
     <section class="history">
@@ -111,17 +111,17 @@
     </section>
     <section class="history">
       <h2>1890</h2>
-      <p>Herman Hollerith invents tabulating machines for the 1890 US Census using punched cards. He would go on to found IBM.</p>
-      <img src="/images/lovelace.jpg" alt="Ada Lovelace">
+      <p>Herman Hollerith invents tabulating machines for the 1890 US Census using punched cards. The government saves $5 million.<br><br>He goes on to found IBM.</p>
+      <img src="/images/hollerith.jpg" alt="Ada Lovelace">
     </section>
     <section class="history">
       <h2>1937</h2>
-      <p>Alan Turing introduces the Turing Machine - a theoretical mathematical device that represents a computing machine.</p>
+      <p>Alan Turing introduces the Turing Machine - a theoretical mathematical device that represents a computing machine.<br><br>He defines the notion of computation and opens the gates for the modern computer.</p>
       <img src="/images/turing.jpg" alt="Alan turing">
     </section>
     <section class="history">
       <h2>1946</h2>
-      <p>ENIAC, the first fully-programmable digital computer, was completed in Philadelphia.</p>
+      <p>ENIAC, the first fully-programmable digital computer, was completed in Philadelphia.<br><br>It was <strong>HUGE</strong>.</p>
       <img src="/images/eniac.jpg" alt="ENIAC">
     </section>
     <section class="history">
