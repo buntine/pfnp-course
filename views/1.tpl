@@ -95,11 +95,6 @@
     <section data-interactions="timeTravel">
     </section>
     <section class="history">
-      <h2>1801</h2>
-      <p>Joseph Jacquard invents a mechanical Loom that uses "punched cards" to store the weave pattern. It's the first programmable machine.</p>
-      <img src="/images/jacquard.jpg" alt="Jacquard Loom">
-    </section>
-    <section class="history">
       <h2>1837</h2>
       <p>Charles Babbage publishes a paper describing a "computing machine" called The Analytical Engine.<br><br>He was 100 years ahead of his time. And very grumpy...</p>
       <img src="/images/babbage.jpg" alt="Charles Babbage">
@@ -174,7 +169,7 @@ age < 50 and age > 18
     <section>
       <h2>Make decisions (Branching)</h2>
       <pre><code>
-if age !== 21 then
+if age !== 21
   print "Cool"
 end
       </code></pre>
@@ -217,7 +212,7 @@ name = name + 1
       <h2>Hide things (Abstraction)</h2>
       <pre><code>
 fn double_or_n(n) 
-  if n < 10 then
+  if n < 10
     return n
   else
     return n * 2
@@ -249,7 +244,7 @@ print current_time.hour
       <pre><code>
 n = 0
 
-if 10 / n > 1 then
+if 10 / n > 1
   print "WTF?"
 end
       </code></pre>
