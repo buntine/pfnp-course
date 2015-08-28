@@ -312,25 +312,7 @@ end
       <img src="/images/david-attenborough.gif" alt="David Attenborough" />
     </section>
     <section data-interactions="attenborough">
-      <h2>1. Strategy</h2>
-      <ul>
-        <li>Ideation and brainstorming</li>
-        <li>Consider how a business can translate into the digital landscape</li>
-        <li>Identify opportunities and risks of "going digital"</li>
-        <li>Develop overall digital vision</li>
-      </ul>
-    </section>
-    <section data-interactions="attenborough">
-      <h2>2. Research</h2>
-      <ul>
-        <li>Kickoff meeting</li>
-        <li>Requirements gathering session</li>
-        <li>Roadmapping session(s)</li>
-        <li>Visual and technical specifications</li>
-      </ul>
-    </section>
-    <section data-interactions="attenborough">
-      <h2>3. Design / UX</h2>
+      <h2>1. Design / UX</h2>
       <ul>
         <li>Wireframing</li>
         <li>"Click" prototyping</li>
@@ -339,7 +321,7 @@ end
       </ul>
     </section>
     <section data-interactions="attenborough">
-      <h2>4. Copywriting</h2>
+      <h2>2. Copywriting</h2>
       <ul>
         <li>Site content gathering/writing</li>
         <li>Set tone of voice</li>
@@ -347,16 +329,23 @@ end
       </ul>
     </section>
     <section data-interactions="attenborough">
-      <h2>5. Development</h2>
+      <h2>3. Front-End Development</h2>
       <ul>
         <li>Translate design into build</li>
-        <li>Construct database</li>
-        <li>Create CMS</li>
-        <li>Program frontend functionality</li>
+        <li>Device testing</li>
+        <li>Program interactions</li>
       </ul>
     </section>
     <section data-interactions="attenborough">
-      <h2>6. Testing</h2>
+      <h2>4. Back-End Development</h2>
+      <ul>
+        <li>Construct database</li>
+        <li>Create CMS</li>
+        <li>Program website functionality</li>
+      </ul>
+    </section>
+    <section data-interactions="attenborough">
+      <h2>5. Testing</h2>
       <ul>
         <li>Bug fixing</li>
         <li>User acceptance testing</li>
@@ -364,11 +353,20 @@ end
       </ul>
     </section>
     <section data-interactions="attenborough">
-      <h2>7. Deployment</h2>
+      <h2>6. Deployment</h2>
       <ul>
         <li>Infrastructure setup</li>
         <li>Domain / DNS setup</li>
         <li>Code deployment</li>
+      </ul>
+    </section>
+    <section data-interactions="attenborough">
+      <h2>7. Optimisation</h2>
+      <ul>
+        <li>Asset minification</li>
+        <li>Image compression</li>
+        <li>SEO</li>
+        <li>Refactoring algorithms</li>
       </ul>
     </section>
     <section>
