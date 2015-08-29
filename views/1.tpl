@@ -105,11 +105,6 @@
       <img src="/images/lovelace.jpg" alt="Ada Lovelace">
     </section>
     <section class="history">
-      <h2>1890</h2>
-      <p>Herman Hollerith invents tabulating machines for the 1890 US Census using punched cards. The government saves $5 million.<br><br>He goes on to found IBM.</p>
-      <img src="/images/hollerith.jpg" alt="Ada Lovelace">
-    </section>
-    <section class="history">
       <h2>1937</h2>
       <p>Alan Turing introduces the Turing Machine - a theoretical mathematical device that represents a computing machine.<br><br>He defines the notion of computation and opens the gates for the modern computer.</p>
       <img src="/images/turing.jpg" alt="Alan turing">
@@ -128,11 +123,6 @@
       <h2>1971</h2>
       <p>Intel introduces the first microprocessor, the Intel 4004. Computers shrink drastically.</p>
       <img src="/images/intel4004.jpg" alt="4004">
-    </section>
-    <section class="history">
-      <h2>1978</h2>
-      <p>The C Programming Language is invented, it will grow to dominate the world of software.</p>
-      <img src="/images/c_lang.jpg" alt="C">
     </section>
     <section class="history">
       <h2>1982</h2>
@@ -189,14 +179,6 @@ while true
 end
 
 print "I never get executed..."
-      </code></pre>
-    </section>
-    <section>
-      <h2>Group things (Data structures)</h2>
-      <pre><code>
-friends = ["Erik", "Mel", "Sean"]
-
-print friends[0]
       </code></pre>
     </section>
     <section>
