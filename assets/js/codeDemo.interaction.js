@@ -4,7 +4,7 @@
         this.up = function(){
           var showAfter = function(ms, n) {
             setTimeout(function(){
-              $("#code_demo").find("#cd" + (n + 1)).show();
+              $("#code_demo").find("#cd" + (n + 1)).css("display", "inline-block");
             }, ms);
           }
 

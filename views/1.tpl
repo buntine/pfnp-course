@@ -206,12 +206,6 @@ print double_or_n(15)  # 30
       </code></pre>
     </section>
     <section>
-      <h2>Display things (Printing)</h2>
-      <pre><code>
-print "Hello, world!"
-      </code></pre>
-    </section>
-    <section>
       <h2>Steal things (Libraries)</h2>
       <pre><code>
 require "datetime"
