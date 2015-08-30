@@ -560,11 +560,11 @@ div#header a.home:hover {
       <h2>What does it look like?</h2>
       <pre><code class="javascript">
 var hello_world,
-    hello = hello(name) {
+    hello = function(name) {
       return "Hello, " + name;
     }
 
-hello_world = hello("World");
+hello_world = hello("World!");
 
 console.log(hello_world);
       </pre></code>
