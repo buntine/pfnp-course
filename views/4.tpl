@@ -296,6 +296,8 @@ $("#heading")
         <li>Including Jquery requires the browser to interpret an extra ~20,000 lines of code</li>
       </ul>
     </section>
+    <section data-interactions="codeDemo">
+    </section>
     <section>
       <h1>Image Formats</h1>
       <img src="/images/art_llama.jpg" alt="Hipster Llama">
