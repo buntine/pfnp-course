@@ -77,10 +77,10 @@
         <li>Web Frameworks</li>
         <li>MVC</li>
         <li>Databases</li>
-        <li>Image formats</li>
         <li>Javascript</li>
         <li>JQuery</li>
         <li>Write some Javascript</li>
+        <li>Image formats</li>
       </ul>
     </section>
     <section>
@@ -155,6 +155,201 @@
         <li>It's a software pattern. A way of structuring our code.</li>
         <li>It's very common in Web Frameworks</li>
       </ul>
+    </section>
+    <section>
+      <h2>How does it work?</h2>
+      <img src="/images/mvc.png" alt="PNG" />
+    </section>
+    <section>
+      <h2>Model</h2>
+      <ul>
+        <li>aaa</li>
+      </ul>
+    </section>
+    <section>
+      <h2>View</h2>
+      <ul>
+        <li>aaa</li>
+      </ul>
+    </section>
+    <section>
+      <h2>Controller</h2>
+      <ul>
+        <li>aaa</li>
+      </ul>
+    </section>
+    <section>
+      <h1>Databases</h1>
+    </section>
+    <section>
+      <h2>What are they?</h2>
+      <ul>
+        <li>Software for storing data in a structured format</li>
+        <li>A way of modelling relationships between data</li>
+        <li>You may think of them as big spreadsheets</li>
+      </ul>
+    </section>
+    <section>
+      <h2>Example #1</h2>
+      <ul>
+        <li>I want to store products</li>
+      </ul>
+    </section>
+    <section>
+      <h2>Example #2</h2>
+      <ul>
+        <li>I want to store products</li>
+        <li>I want to group them into categories</li>
+        <li>Each product has <strong>one</strong> category</li>
+      </ul>
+    </section>
+    <section>
+      <h2>Example #3</h2>
+      <ul>
+        <li>I want to store products</li>
+        <li>I want to group them into categories</li>
+        <li>Each product might have <strong>many</strong> categories</li>
+      </ul>
+    </section>
+    <section>
+      <h1>Javascript</h1>
+    </section>
+    <section>
+      <h2>What is it?</h2>
+      <ul>
+        <li>General-purpose programming language</li>
+        <li>Developed by Brenden Eich at Netscape in 1995</li>
+        <li>Implemented in all major browsers, with slight differences</li>
+        <li>Used to control behaviour and interact with the user</li>
+        <li>Standardised under the name ECMAScript</li>
+      </ul>
+    </section>
+    <section>
+      <h2>What does it look like?</h2>
+      <pre><code class="javascript">
+var hello_world,
+    hello = function(name) {
+      return "Hello, " + name;
+    }
+
+hello_world = hello("World!");
+
+console.log(hello_world);
+      </pre></code>
+    </section>
+    <section>
+      <h2>What makes it a programming language?</h2>
+      <ul>
+        <li>It's <strong>"Turing Complete"</strong>!</li>
+        <li>It provides constructs that we can use to create <strong>algorithms</strong></li>
+      </ul>
+    </section>
+    <section>
+      <h2>Popular Libraries</h2>
+      <ul>
+        <li>JQuery (DOM wrapper, AJAX, etc)</li>
+        <li>Three.js (Graphics)</li>
+        <li>AngularJS (Frontend framework)</li>
+        <li>Ember.js (Frontend framework)</li>
+        <li>React.js (UI framework)</li>
+      </ul>
+    </section>
+    <section>
+      <h2>Jquery</h2>
+      <ul>
+        <li>Simplifies Javascript programming significantly</li>
+        <li>Abstracts away much of the cross-device messiness</li>
+        <li>Animations become very simple (no trigonometry requiired!)</li>
+        <li>AJAX requests become a lot simpler to fire and handle</li>
+      </ul>
+    </section>
+    <section>
+      <h2>Plain Javascript</h2>
+      <pre><code>
+var heading = document.getElementById("header");
+
+heading.innerHTML = "Hello, world!";
+heading.style.backgroundColor = "#eee456";
+      </code></pre>
+    </section>
+    <section>
+      <h2>Javascript + Jquery</h2>
+      <pre><code>
+$("#heading")
+  .html("Hello, world!")
+  .css("background-color", "#eee456");
+      </code></pre>
+    </section>
+    <section>
+      <img src="/images/no_idea.gif" alt="No idea">
+    </section>
+    <section data-interactions="opinion">
+    </section>
+    <section>
+      <h2>Learn Javascript first!</h2>
+      <ul>
+        <li>JQuery does a lot of <strong>magic</strong> under the hood</li>
+        <li>Make sure you understand Javascript well before learning JQuery</li>
+        <li>Including Jquery requires the browser to interpret an extra ~20,000 lines of code</li>
+      </ul>
+    </section>
+    <section>
+      <h1>Image Formats</h1>
+      <img src="/images/art_llama.jpg" alt="Hipster Llama">
+    </section>
+    <section>
+      <h2>PNG</h2>
+      <ul>
+        <li>Portable Network Graphics</li>
+        <li>Supports transparency</li>
+        <li>Lossless data compression, but high compression means more decoding</li>
+        <li>Great for photos and images with lots of colour variations</li>
+      </ul>
+    </section>
+    <section>
+      <h2>JPG</h2>
+      <ul>
+        <li>Joint Photography Experts Group</li>
+        <li>No transparency</li>
+        <li>Lossy compression</li>
+        <li>Great for photos and images with lots of colour variations</li>
+      </ul>
+    </section>
+    <section>
+      <h2>GIF</h2>
+      <ul>
+        <li>Graphics Interchange Format</li>
+        <li>Supports transparency (no semi-transparency)</li>
+        <li>Supports animation</li>
+        <li>Very limited colour palette (256)</li>
+        <li>Limited compression, so big filesize</li>
+      </ul>
+    </section>
+    <section>
+      <h2>SVG</h2>
+      <ul>
+        <li>Scalable Vector Graphics format</li>
+        <li>Supports transparency</li>
+        <li>Best suited to flat colours and geometric shapes</li>
+        <li>Can be scaled to any size without lost quality or increased file size</li>
+      </ul>
+    </section>
+    <section data-interactions="opinion">
+    </section>
+    <section>
+      <h2>JPG and SVG are usually enough!</h2>
+      <ul>
+        <li>JPG is great for photo-esque images</li>
+        <li>SVG is great for simpler shapes, logos, etc</li>
+      </ul>
+    </section>
+    <section>
+      <h1>Review</h1>
+      <h2>Questions?</h2>
+    </section>
+    <section>
+      <h1>Thank You!</h1>
+      <img src="/images/jcvd.gif" class="jcvd" alt="Thank You" />
     </section>
   </div>
 </div>
