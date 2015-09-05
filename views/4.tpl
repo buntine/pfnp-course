@@ -114,6 +114,48 @@
     <section>
       <h1>Web Frameworks</h1>
     </section>
+    <section>
+      <h2>What are they?</h2>
+      <ul>
+        <li></li>
+      </ul>
+    </section>
+    <section>
+      <h2>Popular options</h2>
+      <ul>
+        <li>Ruby on Rails</li>
+        <li>Django</li>
+        <li>AngularJS</li>
+        <li>ASP.NET MVC</li>
+      </ul>
+    </section>
+    <section>
+      <h2>What do they do?</h2>
+      <ul>
+        <li>Make life easier for Web Developers</li>
+        <li>
+          Support common tasks associated with web development:
+          <ul>
+            <li>Handling requests</li>
+            <li>Communicating with databases</li>
+          </ul>
+        </li>
+        <li>Provide standards</li>
+        <li>Security</li>
+        <li>Caching</li>
+      </ul>
+    </section>
+    <section>
+      <h1>MVC</h1>
+    </section>
+    <section>
+      <h2>What is it?</h2>
+      <ul>
+        <li>Model - View - Controller</li>
+        <li>It's a software pattern. A way of structuring our code.</li>
+        <li>It's very common in Web Frameworks</li>
+      </ul>
+    </section>
   </div>
 </div>
 {{> footer }}
