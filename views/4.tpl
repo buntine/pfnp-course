@@ -113,12 +113,11 @@
     </section>
     <section>
       <h1>Web Frameworks</h1>
+      <img src="/images/al_bundy.gif" alt="Frameworks">
     </section>
     <section>
       <h2>What are they?</h2>
-      <ul>
-        <li></li>
-      </ul>
+      <p>Softwares that takes away the pain of building dynamic web applications.</p>
     </section>
     <section>
       <h2>Popular options</h2>
@@ -127,6 +126,7 @@
         <li>Django</li>
         <li>AngularJS</li>
         <li>ASP.NET MVC</li>
+        <li>+ about 900 more...</li>
       </ul>
     </section>
     <section>
@@ -147,13 +147,14 @@
     </section>
     <section>
       <h1>MVC</h1>
+      <img src="/images/best_gif.gif" alt="MVC">
     </section>
     <section>
       <h2>What is it?</h2>
       <ul>
         <li>Model - View - Controller</li>
         <li>It's a software pattern. A way of structuring our code.</li>
-        <li>It's very common in Web Frameworks</li>
+        <li>It's very common in Web Frameworks. Infact, nearly all major frameworks are based upon it.</li>
       </ul>
     </section>
     <section>
@@ -180,6 +181,7 @@
     </section>
     <section>
       <h1>Databases</h1>
+      <img src="/images/database.jpg" alt="Database">
     </section>
     <section>
       <h2>What are they?</h2>
@@ -187,6 +189,7 @@
         <li>Software for storing data in a structured format</li>
         <li>A way of modelling relationships between data</li>
         <li>You may think of them as big spreadsheets</li>
+        <li>We speak to them using SQL</li>
       </ul>
     </section>
     <section>
