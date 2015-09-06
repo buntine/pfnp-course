@@ -65,9 +65,9 @@
       </ul>
     </section>
     <section>
-      <h1>4. Become a God</h1>
+      <h1>4. Frameworks, Databases and Javascript</h1>
       <ul>
-        <li>Put it all together</li>
+        <li>Tie up the loose ends!</li>
       </ul>
     </section>
     <section>
@@ -191,6 +191,14 @@
         <li>A way of modelling relationships between data</li>
         <li>You may think of them as big spreadsheets</li>
         <li>We speak to them using SQL</li>
+      </ul>
+    </section>
+    <section>
+      <h2>How are they made?</h2>
+      <ul>
+        <li>We start by drawing them as <strong>Entity Relationship Diagrams</strong> (ERDs)</li>
+        <li>Then we clean them up via <strong>normalisation</strong>.</li>
+        <li>Finally, we translate the design into <strong>SQL</strong>.</li>
       </ul>
     </section>
     <section>
