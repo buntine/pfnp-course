@@ -141,6 +141,7 @@
           </ul>
         </li>
         <li>Provide standards</li>
+        <li>Sessions / Cookies</li>
         <li>Security</li>
         <li>Caching</li>
       </ul>
