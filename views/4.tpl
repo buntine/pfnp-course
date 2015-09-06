@@ -74,12 +74,12 @@
       <h1>Goals for Today</h1>
       <ul>
         <li>Recap of lesson #3</li>
-        <li>Web Frameworks</li>
-        <li>MVC</li>
-        <li>Databases</li>
         <li>Javascript</li>
         <li>JQuery</li>
         <li>Write some Javascript</li>
+        <li>Web Frameworks</li>
+        <li>MVC</li>
+        <li>Databases</li>
         <li>Image formats</li>
       </ul>
     </section>
