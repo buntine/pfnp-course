@@ -165,19 +165,25 @@
     <section>
       <h2>Model</h2>
       <ul>
-        <li>aaa</li>
+        <li>Represents the data that backs an application.</li>
+        <li>Handles application rules and logic.</li>
+        <li>Typically provides an abstraction over a record in a database.</li>
       </ul>
     </section>
     <section>
       <h2>View</h2>
       <ul>
-        <li>aaa</li>
+        <li>Any output of information is considered a view.</li>
+        <li>Multiple views may exist - one for mobile and one for desktop, for example.</li>
       </ul>
     </section>
     <section>
       <h2>Controller</h2>
       <ul>
-        <li>aaa</li>
+        <li>Handles interaction with the user.</li>
+        <li>Accepts input and provides output</li>
+        <li>Delivers information from the model via the view.</li>
+        <li>It's the glue!</li>
       </ul>
     </section>
     <section>
