@@ -113,6 +113,7 @@
     </section>
     <section>
       <h1>Javascript</h1>
+      <img src="/images/javascript.jpg" alt="Javascript">
     </section>
     <section>
       <h2>What is it?</h2>
