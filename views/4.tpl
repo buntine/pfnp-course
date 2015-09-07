@@ -65,7 +65,7 @@
       </ul>
     </section>
     <section>
-      <h1>4. Frameworks, Databases and Javascript</h1>
+      <h1>4. The rest!</h1>
       <ul>
         <li>Tie up the loose ends!</li>
       </ul>
