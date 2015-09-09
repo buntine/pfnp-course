@@ -80,6 +80,7 @@
         <li>Web Frameworks</li>
         <li>MVC</li>
         <li>Databases</li>
+        <li>My choices</li>
         <li>Image formats</li>
       </ul>
     </section>
@@ -128,12 +129,11 @@
     <section>
       <h2>What does it look like?</h2>
       <pre><code class="javascript">
-var hello_world,
-    hello = function(name) {
+var hello = function(name) {
       return "Hello, " + name;
-    }
+    };
 
-hello_world = hello("World!");
+var hello_world = hello("World!");
 
 console.log(hello_world);
       </pre></code>
@@ -313,6 +313,24 @@ $("#heading")
         <li>I want to group them into categories</li>
         <li>Each product might have <strong>many</strong> categories</li>
       </ul>
+    </section>
+    <section>
+      <h1>My Choices</h1>
+    </section>
+    <section>
+       <img src="/images/sinatra.jpg" alt="Sinatra">
+    </section>
+    <section>
+       <img src="/images/ror.png" alt="Ruby on Rails">
+    </section>
+    <section>
+       <img src="/images/bottle.png" alt="Bottle">
+    </section>
+    <section>
+       <img src="/images/emberjs.png" alt="Ember.js">
+    </section>
+    <section>
+       <img src="/images/laravel.png" alt="Laravel">
     </section>
     <section>
       <h1>Image Formats</h1>
