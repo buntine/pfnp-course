@@ -321,16 +321,55 @@ $("#heading")
        <img src="/images/sinatra.jpg" alt="Sinatra">
     </section>
     <section>
+       <h2>Sinatra</h2>
+       <ul>
+         <li>Written in Ruby.</li>
+         <li>Simple, low-complexity, low-featureset.</li>
+         <li>Picster was written in Sinatra.</li>
+       </ul>
+    </section>
+    <section>
        <img src="/images/ror.png" alt="Ruby on Rails">
+    </section>
+    <section>
+       <h2>Ruby on Rails</h2>
+       <ul>
+         <li>Written in Ruby.</li>
+         <li>Big, complex.</li>
+         <li>Suited to large applications.</li>
+       </ul>
     </section>
     <section>
        <img src="/images/bottle.png" alt="Bottle">
     </section>
     <section>
+       <h2>Bottle</h2>
+       <ul>
+         <li>Written in Python.</li>
+         <li>Small, easy to use. Python equivalent of Sinatra.</li>
+       </ul>
+    </section>
+    <section>
        <img src="/images/emberjs.png" alt="Ember.js">
     </section>
     <section>
+       <h2>Ember.js</h2>
+       <ul>
+         <li>Written in Javascript.</li>
+         <li>Stores lots of application logic on the client.</li>
+         <li>Delegates the server to expose simple APIs.</li>
+       </ul>
+    </section>
+    <section>
        <img src="/images/laravel.png" alt="Laravel">
+    </section>
+    <section>
+       <h2>Laravel</h2>
+       <ul>
+         <li>Written in PHP.</li>
+         <li>Big. Similar to Rails.</li>
+         <li>Suited to large applications.</li>
+       </ul>
     </section>
     <section>
       <h1>Image Formats</h1>
