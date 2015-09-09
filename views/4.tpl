@@ -74,13 +74,13 @@
       <h1>Goals for Today</h1>
       <ul>
         <li>Recap of lesson #3</li>
-        <li>Javascript</li>
-        <li>JQuery</li>
-        <li>Write some Javascript</li>
         <li>Web Frameworks</li>
         <li>MVC</li>
         <li>Databases</li>
         <li>My choices</li>
+        <li>Javascript</li>
+        <li>JQuery</li>
+        <li>Write some Javascript</li>
         <li>Image formats</li>
       </ul>
     </section>
@@ -111,90 +111,6 @@
         <li>Looping.</li>
         <li>Conditionals.</li>
       </ul>
-    </section>
-    <section>
-      <h1>Javascript</h1>
-      <img src="/images/javascript.jpg" alt="Javascript">
-    </section>
-    <section>
-      <h2>What is it?</h2>
-      <ul>
-        <li>General-purpose programming language</li>
-        <li>Developed by Brenden Eich at Netscape in 1995</li>
-        <li>Implemented in all major browsers, with slight differences</li>
-        <li>Used to control behaviour and interact with the user</li>
-        <li>Standardised under the name ECMAScript</li>
-      </ul>
-    </section>
-    <section>
-      <h2>What does it look like?</h2>
-      <pre><code class="javascript">
-var hello = function(name) {
-      return "Hello, " + name;
-    };
-
-var hello_world = hello("World!");
-
-console.log(hello_world);
-      </pre></code>
-    </section>
-    <section>
-      <h2>What makes it a programming language?</h2>
-      <ul>
-        <li>It's <strong>"Turing Complete"</strong>!</li>
-        <li>It provides constructs that we can use to create <strong>algorithms</strong></li>
-      </ul>
-    </section>
-    <section>
-      <h2>Popular Libraries</h2>
-      <ul>
-        <li>JQuery (DOM wrapper, AJAX, etc)</li>
-        <li>Three.js (Graphics)</li>
-        <li>AngularJS (Frontend framework)</li>
-        <li>Ember.js (Frontend framework)</li>
-        <li>React.js (UI framework)</li>
-      </ul>
-    </section>
-    <section>
-      <h2>Jquery</h2>
-      <ul>
-        <li>Simplifies Javascript programming significantly</li>
-        <li>Abstracts away much of the cross-device messiness</li>
-        <li>Animations become very simple (no trigonometry requiired!)</li>
-        <li>AJAX requests become a lot simpler to fire and handle</li>
-      </ul>
-    </section>
-    <section>
-      <h2>Plain Javascript</h2>
-      <pre><code>
-var heading = document.getElementById("header");
-
-heading.innerHTML = "Hello, world!";
-heading.style.backgroundColor = "#eee456";
-      </code></pre>
-    </section>
-    <section>
-      <h2>Javascript + Jquery</h2>
-      <pre><code>
-$("#heading")
-  .html("Hello, world!")
-  .css("background-color", "#eee456");
-      </code></pre>
-    </section>
-    <section>
-      <img src="/images/no_idea.gif" alt="No idea">
-    </section>
-    <section data-interactions="opinion">
-    </section>
-    <section>
-      <h2>Learn Javascript first!</h2>
-      <ul>
-        <li>JQuery does a lot of <strong>magic</strong> under the hood</li>
-        <li>Make sure you understand Javascript well before learning JQuery</li>
-        <li>Including Jquery requires the browser to interpret an extra ~20,000 lines of code</li>
-      </ul>
-    </section>
-    <section data-interactions="codeDemo">
     </section>
     <section>
       <h1>Web Frameworks</h1>
@@ -370,6 +286,102 @@ $("#heading")
          <li>Big. Similar to Rails.</li>
          <li>Suited to large applications.</li>
        </ul>
+    </section>
+    <section data-interactions="opinion">
+    </section>
+    <section>
+      <h2>There is no perfect answer!</h2>
+      <ul>
+        <li>You need to weigh up the options.</li>
+        <li>What do you already know?</li>
+        <li>Which features make sense for your project?</li>
+        <li>How well maintained is the language/framework?</li>
+        <li>Will it be around in 12 months?</li>
+      </ul>
+    </section>
+    <section>
+      <h1>Javascript</h1>
+      <img src="/images/javascript.jpg" alt="Javascript">
+    </section>
+    <section>
+      <h2>What is it?</h2>
+      <ul>
+        <li>General-purpose programming language</li>
+        <li>Developed by Brenden Eich at Netscape in 1995</li>
+        <li>Implemented in all major browsers, with slight differences</li>
+        <li>Used to control behaviour and interact with the user</li>
+        <li>Standardised under the name ECMAScript</li>
+      </ul>
+    </section>
+    <section>
+      <h2>What does it look like?</h2>
+      <pre><code class="javascript">
+var hello = function(name) {
+      return "Hello, " + name;
+    };
+
+var hello_world = hello("World!");
+
+console.log(hello_world);
+      </pre></code>
+    </section>
+    <section>
+      <h2>What makes it a programming language?</h2>
+      <ul>
+        <li>It's <strong>"Turing Complete"</strong>!</li>
+        <li>It provides constructs that we can use to create <strong>algorithms</strong></li>
+      </ul>
+    </section>
+    <section>
+      <h2>Popular Libraries</h2>
+      <ul>
+        <li>JQuery (DOM wrapper, AJAX, etc)</li>
+        <li>Three.js (Graphics)</li>
+        <li>AngularJS (Frontend framework)</li>
+        <li>Ember.js (Frontend framework)</li>
+        <li>React.js (UI framework)</li>
+      </ul>
+    </section>
+    <section>
+      <h2>Jquery</h2>
+      <ul>
+        <li>Simplifies Javascript programming significantly</li>
+        <li>Abstracts away much of the cross-device messiness</li>
+        <li>Animations become very simple (no trigonometry requiired!)</li>
+        <li>AJAX requests become a lot simpler to fire and handle</li>
+      </ul>
+    </section>
+    <section>
+      <h2>Plain Javascript</h2>
+      <pre><code>
+var heading = document.getElementById("header");
+
+heading.innerHTML = "Hello, world!";
+heading.style.backgroundColor = "#eee456";
+      </code></pre>
+    </section>
+    <section>
+      <h2>Javascript + Jquery</h2>
+      <pre><code>
+$("#heading")
+  .html("Hello, world!")
+  .css("background-color", "#eee456");
+      </code></pre>
+    </section>
+    <section>
+      <img src="/images/no_idea.gif" alt="No idea">
+    </section>
+    <section data-interactions="opinion">
+    </section>
+    <section>
+      <h2>Learn Javascript first!</h2>
+      <ul>
+        <li>JQuery does a lot of <strong>magic</strong> under the hood</li>
+        <li>Make sure you understand Javascript well before learning JQuery</li>
+        <li>Including Jquery requires the browser to interpret an extra ~20,000 lines of code</li>
+      </ul>
+    </section>
+    <section data-interactions="codeDemo">
     </section>
     <section>
       <h1>Image Formats</h1>
