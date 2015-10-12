@@ -22,7 +22,7 @@
       </ul>
     </section>
     <section>
-      <h1>What is the goal?</h1>
+      <h1>What is the point?</h1>
     </section>
     <section class="goal">
       <h1>Demystify the lingo</h1>
