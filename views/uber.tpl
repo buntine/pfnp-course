@@ -30,15 +30,12 @@
     </section>
     <section class="goal">
       <h1>Survey of technologies</h1>
-      <img src="/images/coding.gif" alt="Servey of technologies" />
-    </section>
-    <section>
-      <h1>Why are you here?</h1>
+      <img src="/images/jc-typing.gif" alt="Survey of Technologies" />
     </section>
     <section>
       <h1>Let's have a look at</h1>
       <ul>
-        <li>Vocabulary</li>
+        <li>Programming vocabulary</li>
         <li>Development process</li>
         <li>Basics of the Web</li>
         <li>Coding introduction</li>
@@ -65,6 +62,10 @@
     <section>
       <h2>Programming Language</h2>
       <p>An intermediary language which can be understood by both computers and by Human beings.</p>
+    </section>
+    <section>
+      <h2>Computer Program</h2>
+      <p>An ordered series of instructions written in a programming language.</p>
     </section>
     <section data-interactions="timeTravel">
     </section>
@@ -133,7 +134,7 @@ age < 50 and age > 18
     <section>
       <h2>Make decisions (Branching)</h2>
       <pre><code>
-if age !== 21
+if age == 21
   print "Cool"
 end
       </code></pre>
@@ -148,7 +149,9 @@ age = age + 1
     <section>
       <h2>Repeat ourselves (Looping)</h2>
       <pre><code>
-while true
+age = 10
+
+while age < 15
   print "Endless loop!"
 end
 
