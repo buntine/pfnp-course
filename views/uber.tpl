@@ -140,13 +140,14 @@ age = age + 1
     <section>
       <h2>Repeat ourselves (Looping)</h2>
       <pre><code>
-age = 10
+num = 1
 
-while age < 15
-  print "Endless loop!"
+while num < 1000000
+  print num
+  num = num + 1
 end
 
-print "I never get executed..."
+print "FINISHED!"
       </code></pre>
     </section>
     <section>
