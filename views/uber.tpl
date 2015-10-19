@@ -33,19 +33,11 @@
       <img src="/images/jc-typing.gif" alt="Survey of Technologies" />
     </section>
     <section>
-      <h1>Let's have a look at</h1>
-      <ul>
-        <li>Programming vocabulary</li>
-        <li>Development process</li>
-        <li>Basics of the Web</li>
-        <li>Coding introduction</li>
-      </ul>
-    </section>
-    <section>
       <h1>Goals for Today</h1>
       <ul>
-        <li>What did computers come from?</li>
         <li>What is programming?</li>
+        <li>Where did computers come from?</li>
+        <li>What does programming look like?</li>
         <li>What is Web Development?</li>
         <li>Understand some key terminology</li>
         <li>The basics of algorithmic thinking</li>
@@ -247,6 +239,9 @@ end
     <section>
       <h2>Dynamic request</h2>
       <img src="/images/request_flow_big.png" alt="Complex request" />
+    </section>
+    <section>
+      <h1>Questions?</h1>
     </section>
     <section>
       <h1>Thank You!</h1>
